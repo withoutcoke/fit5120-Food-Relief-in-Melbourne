@@ -1,0 +1,663 @@
+,ID,Category_ID,Fullname,Keywords,Pantry,Pantry metric,Pantry tips,Refrigerate,Refrigerate metric,Refrigerate tips,Freeze,Freeze metric,Freeze tips,Suit_for_donate
+0,1,7,Butter,Butter,NA,NA,May be left at room temperature for 1 - 2 days.,1-2,Months,NA,6-9,Months,NA,No
+1,2,7,Buttermilk,Buttermilk,NA,NA,NA,1-2,Weeks,NA,3,Months,NA,No
+2,3,7,"Cheese (hard such as cheddar, swiss, block parmesan)","Cheese,cheddar, swiss,parmesan",NA,NA,NA,6,Months,NA,6,Months,NA,No
+3,4,7,Cheese (parmesan; shredded or grated),"Cheese,parmesan,shredded,grated",NA,NA,NA,12,Months,NA,NA,NA,NA,No
+4,5,7,"Cheese (shredded; cheddar, mozzarella, etc.)","Cheese,shredded,cheddar,mozzarella",NA,NA,NA,1,Months,NA,3-4,Months,NA,No
+5,6,7,Cheese (processed slices),"Cheese,processed slices,slices,slice",NA,NA,NA,3-4,Weeks,NA,NA,NA,NA,No
+6,7,7,"Cheese (soft such as brie, bel paese, goat)","Cheese,brie, bel paese, goat",NA,NA,NA,1-2,Weeks,NA,6,Months,NA,No
+7,8,7,Coffee creamer (liquid refrigerated),"Coffee creamer,Coffee, creamer,liquid refrigerated",NA,NA,NA,3,Weeks,NA,NA,NA,NA,No
+8,9,7,Cottage cheese,"Cottage cheese,cheese",NA,NA,NA,2,Weeks,NA,NA,NA,NA,No
+9,10,7,Cream cheese,Cream cheese,NA,NA,NA,2,Weeks,NA,NA,NA,NA,No
+10,11,7,"Cream (whipping, ultrapasteurized)","Cream,whipping,ultrapasteurized",NA,NA,NA,1,Months,NA,NA,NA,NA,No
+11,12,7,"Cream (whipped, sweetened)","Cream,whipped, sweetened",NA,NA,NA,1,Days,NA,1-2,Months,NA,No
+12,13,7,Cream (half and half),"Cream,half",NA,NA,NA,3-4,Days,NA,4,Months,NA,No
+13,14,7,Cream (heavy),"Cream,heavy",NA,NA,NA,10,Days,NA,3-4,Months,NA,No
+14,15,7,Cream (light),"Cream,light",NA,NA,NA,1,Weeks,NA,3-4,Months,Use for cooking.,No
+15,16,7,Dips (sour cream based),"Dips,sour cream based,sour,cream based,cream,dip",NA,NA,NA,2,Weeks,NA,NA,NA,NA,No
+16,17,7,Egg substitutes (liquid),"Egg substitutes,liquid,egg,substitutes,substitute",NA,NA,NA,7,Days,NA,NA,NA,NA,No
+17,20,7,Eggnog (commercial),"Eggnog,commercial,egg,nog",NA,NA,NA,3-5,Days,NA,6,Months,NA,No
+18,21,7,Eggs (in shell),"Eggs,in shell,egg,shell",NA,NA,NA,3-5,Weeks,NA,NA,NA,NA,No
+19,22,7,"Eggs (raw whites, yolks)","Eggs,raw whites, yolks,egg,whites",NA,NA,NA,2-4,Days,NA,12,Months,NA,No
+20,23,7,Eggs (hard boiled cooked),"Eggs,egg,hard boiled cooked,boiled,hard boiled",NA,NA,NA,1,Weeks,NA,NA,NA,NA,No
+21,24,7,Egg dishes,"Egg dishes,egg,dishes",NA,NA,NA,3-4,Days,NA,2-3,Months,Freezing guidance applies to egg dishes after baking.,No
+22,25,7,Kefir (fermented milk),"Kefir,fermented milk,milk,fermented",NA,NA,NA,1,Weeks,NA,NA,NA,NA,No
+23,26,7,Margarine,Margarine,NA,NA,NA,6,Months,NA,12,Months,NA,No
+24,27,7,Milk (plain or flavored),"Milk,plain,flavored,flavor",NA,NA,NA,NA,NA,NA,3,Months,NA,No
+25,28,7,Pudding,Pudding,NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+26,29,7,Sour cream,"Sour cream,cream,sour",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+27,30,7,Whipped cream (aerosol can),"Whipped cream,cream,aerosol can,can",NA,NA,NA,3-4,Weeks,NA,NA,NA,NA,No
+28,31,7,Whipped topping (aerosol can),"Whipped topping,topping,aerosol can,can,whipped",NA,NA,NA,3,Months,NA,NA,NA,NA,No
+29,32,7,Whipped topping (tub),"Whipped topping,topping,tub,whipped",NA,NA,NA,2,Weeks,NA,14,Months,NA,No
+30,33,7,Yogurt,Yogurt,NA,NA,NA,1-2,Weeks,NA,1-2,Months,NA,No
+31,34,10,"Beef (rib roast, bone-in)","Beef,rib roast,bone-in,roast,bone,rib",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+32,35,10,"Beef (rib roast; boneless, rolled)","Beef,rib roast,boneless,rolled,roast,rib",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+33,36,10,Beef (round or rump roast),"Beef,round,rump roast,roast",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+34,37,10,"Beef (tenderloin, whole)","Beef,tenderloin,whole",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+35,38,10,"Beef (tenderloin, half)","Beef,tenderloin,half",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+36,39,10,"Beef (chuck roast, brisket)","Beef,chuck roast,roast,brisket",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+37,40,10,Beef (steaks),"Beef,steaks,steak",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+38,41,10,"Beef (stew, cubes)","Beef,stew, cubes,cube",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+39,42,10,Beef (short ribs),"Beef,short ribs,ribs,rib",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+40,43,10,Beef (ground),"Beef,ground",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+41,44,10,"Lamb (leg, bone-in - small)","Lamb,leg,bone-in - small,bone-in,bone",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+42,45,10,"Lamb (leg, bone-in - large)","Lamb,leg,bone-in - large,bone-in,bone",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+43,46,10,"Lamb (leg; boneless, rolled)","Lamb,leg,boneless,rolled,bone",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+44,47,10,Lamb (crown roast),"Lamb,crown roast,roast",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+45,48,10,Lamb (shoulder roast or shank leg half),"Lamb,shoulder roast,roast,shoulder,shank leg half,half,shank,shank leg,leg",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+46,49,10,Lamb (cubes for kabobs),"Lamb,cubes,kabobs,cube,kabob",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+47,50,10,Lamb (ground),"Lamb,ground",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+48,51,10,"Lamb (chops, ribs, or loin)","Lamb,chops,ribs,loin,rib",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+49,52,10,Lamb (leg steaks),"Lamb,leg steaks,steaks,steak,leg",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+50,53,10,"Lamb (stew meat, pieces)","Lamb,stew,pieces,stew meat,meat,piece",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+51,54,10,Lamb (shanks),"Lamb,shanks,shank",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+52,55,10,"Lamb (breast, rolled)","Lamb,breast,rolled",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+53,56,10,"Veal (shoulder roast, boneless)","Veal,shoulder,boneless,shoulder roast,roast",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+54,57,10,"Veal (leg rump or round roast, boneless)","Veal,leg rump,rump,leg,round,round roast,roast,boneless",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+55,58,10,"Veal (loin roast, bone-in)","Veal,loin roast,bone-in,roast,bone,loin",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+56,59,10,Veal (ground),"Veal,ground",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+57,60,10,"Pork (loin roast, bone-in)","Pork,loin roast,bone-in,roast,bone,loin",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+58,61,10,"Pork (loin roast, boneless)","Pork,loin,boneless,loin roast,roast",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+59,63,10,"Pork (loin chops, bone-in)","Pork,loin chops,bone-in,chops,bone,loin",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+60,64,10,"Pork (loin chops, boneless)","Pork,loin,boneless,loin chops,chops",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+61,65,10,Pork (crown roast - small),"Pork,roast,crown,crown roast - small,small,crown roast",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+62,66,10,Pork (crown roast - large),"Pork,roast,crown,crown roast - large,large,crown roast",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+63,67,10,Pork (tenderloin),"Pork,tenderloin",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+64,69,10,Pork (tenderloin medallions or loin cubes),"Pork,tenderloin,tenderloin medallions,loin cubes,medallion,loin cube,loin,medallions,cube,cubes",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+65,70,10,"Goat (tender whole cuts (legs, ribs, shoulder, loin))","Goat,tender whole cuts,legs,ribs,shoulder,loin,tender,whole cuts,leg,rib",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+66,71,10,"Goat (less tender whole cuts (stew meat, riblets, shanks))","Goat,less tender whole cuts,stew meat,stew,meat,riblets,shanks,whole cuts,tender,less tender",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+67,72,10,Pork (ribs),"Pork,ribs,rib",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+68,73,10,Pork (ground),"Pork,ground",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+69,74,10,Pork (shoulder),"Pork,shoulder",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+70,75,10,"Pork (loin, cubes)","Pork,loin,cubes,cube",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+71,76,10,"Venison (round, rump, loin, or rib roast)","Venison,rump,round,loin,rib,rib roast,roast",NA,NA,NA,3-5,Days,NA,4-12,Months,NA,No
+72,77,10,"Variety meats (liver, tongue, chitterlings, etc.)","Variety meats,liver,tongue,chitterlings,meats,meat,chitterling",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+73,78,10,Goat (ground),"Goat,ground",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+74,79,12,Bacon,Bacon,NA,NA,NA,1,Weeks,NA,1,Months,NA,No
+75,81,12,Corned beef (in pouch with pickling juices),"Corned beef,pouch,pickling juices,juices,juice",NA,NA,NA,5-7,Days,NA,1,Months,NA,No
+76,82,12,Ham (canned (“keep refrigerated” label)),"Ham,canned,keep refrigerated,label,refrigerated",NA,NA,NA,6-9,Months,NA,NA,NA,NA,Yes
+77,83,12,"Ham (fully cooked, bone-in, whole)","Ham,fully cooked,bone-in,whole,cooked,bone",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+78,84,12,"Ham (fully cooked, bone-in, half)","Ham,fully cooked,bone-in,half,cooked,bone",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+79,85,12,"Ham (fully cooked, slices, half, or spiral cut)","Ham,fully cooked,slices,half,spiral cut,cooked,slice",NA,NA,NA,3-4,Days,NA,1-2,Months,NA,No
+80,86,12,"Ham (fully cooked, arm picnic shoulder, boneless)","Ham,fully cooked,cooked,arm picnic shoulder,boneless,shoulder,arm picnic",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+81,87,12,"Ham (fully cooked, canned, boneless (refrigerated))","Ham,fully cooked,cooked,canned,boneless,refrigerated",NA,NA,NA,6-9,Months,NA,1-2,Months,NA,Yes
+82,88,12,"Ham (fully cooked, vacuum packed, boneless)","Ham,fully cooked,cooked,vacuum packed,boneless",NA,NA,NA,2,Weeks,NA,1-2,Months,NA,No
+83,89,12,"Ham (fresh, cook-before-eating, bone-in, whole)","Ham,fresh,cook-before-eating,bone-in,whole,bone",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+84,90,12,"Ham (fresh, cook-before-eating, bone-in, half)","Ham,fresh,cook-before-eating,bone-in,half,bone",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+85,91,12,"Ham (fresh, cook-before-eating, shank or butt portion, bone-in)","Ham,fresh,cook-before-eating,shank,butt portion,bone-in,bone",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+86,92,12,"Ham (fresh, cook-before-eating, arm picnic shoulder, boneless)","Ham,fresh,cook-before-eating,before-eating,arm picnic shoulder,boneless,arm picnic,shoulder",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+87,93,12,"Ham (fresh, cook-before-eating, shoulder roll (butt), boneless)","Ham,fresh,cook-before-eating,before-eating,shoulder roll,butt,boneless,roll",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+88,94,12,"Ham (fresh, uncooked, whole leg, bone-in)","Ham,fresh,uncooked,whole leg,bone-in,cooked,leg,bone",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+89,95,12,"Ham (fresh, uncooked, whole leg, boneless)","Ham,fresh,uncooked,whole leg,boneless,cooked,leg,bone",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+90,96,12,"Ham (fresh, uncooked, half leg, bone-in)","Ham,fresh,uncooked,half leg,bone-in,bone,leg,cooked",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+91,97,12,Ham (country ham (whole or half)),"Ham,country ham,whole,half",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+92,98,12,Hot dogs,"Hot dogs,hot",NA,NA,NA,2,Weeks,NA,1-2,Months,NA,No
+93,102,12,Sausage (raw bulk type or patties),"Sausage,raw bulk type,patties,raw,patty",NA,NA,NA,1-2,Days,NA,1-2,Months,NA,No
+94,103,12,"Sausage (fully cooked smoked links, kielbasa)","Sausage,fully cooked smoked links,kielbasa,smoked links,links,fully cooked,link",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+95,104,12,"Sausage (hard, dry (pepperoni), sliced)","Sausage,hard,dry,pepperoni,sliced,slice,dry pepperoni",NA,NA,NA,2-3,Weeks,NA,1-2,Months,NA,No
+96,105,13,"Stuffed, raw pork chops","Stuffed,raw pork chops,chops,raw pork,pork",NA,NA,NA,1-2,Days,NA,9,Months,NA,No
+97,106,13,Raw kabobs with vegetables,"Raw kabobs,vegetables,kabobs,kabob",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+98,107,11,Bacon (fully cooked),"Bacon,fully cooked,cooked",6-6,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+99,108,11,Ham (shelf-stable cans),"Ham,shelf stable cans,cans,shelf stable,shelf,stable,can",6-9,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+100,109,11,Jerky (commercially dried),"Jerky,commercially dried,dried",12-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+101,110,11,Jerky (homemade),"Jerky,homemade",1-2,Months,NA,1-2,Months,NA,NA,NA,NA,Yes
+102,111,11,Meat products (canned),"Meat products,products,canned,meat,product",5-5,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+103,112,11,Retort pouches or boxes,"Retort pouches,boxes,box,retort,pouch",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+104,113,15,Chicken (whole),"Chicken,whole",NA,NA,NA,1-2,Days,NA,12,Months,NA,No
+105,114,15,Turkey (whole),"Turkey,whole",NA,NA,NA,1-2,Days,NA,12,Months,NA,No
+106,115,15,Ground turkey or chicken,"Ground turkey,chicken,turkey",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+107,116,15,"Chicken parts (breast halves, bone-in)","Chicken parts,breast halves,bone-in,halves,bone,breast,chicken,half",NA,NA,NA,1-2,Days,NA,9,Months,NA,No
+108,117,15,"Chicken parts (breast halves, boneless)","Chicken parts,breast halves,boneless,chicken,breast,halves,half,bone",NA,NA,NA,1-2,Days,NA,9,Months,NA,No
+109,118,15,Chicken parts (legs or thighs),"Chicken parts,legs,thighs,chicken,leg,thigh",NA,NA,NA,1-2,Days,NA,9,Months,NA,No
+110,119,15,"Turkey parts (breast halves, bone-in)","Turkey parts,breast halves,bone-in,halves,bone,breast,half,turkey",NA,NA,NA,1-2,Days,NA,9,Months,NA,No
+111,120,15,"Turkey parts (breast halves, boneless)","Turkey parts,breast,boneless,bone,turkey",NA,NA,NA,1-2,Days,NA,9,Months,NA,No
+112,121,15,Turkey parts (legs or thighs),"Turkey parts,legs,thighs,turkey,leg,thigh",NA,NA,NA,1-2,Days,NA,9,Months,NA,No
+113,123,15,"Duckling (domestic or wild, whole)","Duckling,domestic,wild,whole",NA,NA,NA,1-2,Days,NA,6,Months,NA,No
+114,125,15,"Goose (domestic or wild, whole)","Goose,domestic,wild,whole",NA,NA,NA,1-2,Days,NA,6,Months,NA,No
+115,126,15,"Pheasant (young, whole)","Pheasant,young,whole",NA,NA,NA,1-2,Days,NA,6,Months,NA,No
+116,127,15,Quail (whole),"Quail,whole",NA,NA,NA,1-2,Days,NA,6,Months,NA,No
+117,128,15,Capon (whole),"Capon,whole",NA,NA,NA,1-2,Days,NA,12,Months,NA,No
+118,129,15,Cornish Hens (whole),"Cornish Hens,Hens,whole,Hen",NA,NA,NA,1-2,Days,NA,12,Months,NA,No
+119,130,15,Giblets,"Giblets,giblet",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+120,131,17,"Stuffed, raw chicken breasts","Stuffed,raw chicken breasts,breast,chicken,chicken breasts",NA,NA,NA,1-2,Days,NA,9,Months,NA,No
+121,132,17,Raw kabobs with vegetables,"Raw kabobs,vegetables,kabobs,kabob,vegetable",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+122,133,17,Turducken,Turducken,NA,NA,NA,NA,NA,NA,9,Months,NA,No
+123,134,14,"Chicken nuggets, patties","Chicken nuggets, patties,chicken,nuggets,nugget,patty",NA,NA,NA,NA,NA,NA,1-3,Months,NA,No
+124,135,14,Cooked poultry dishes,"Cooked poultry dishes,poultry dishes,poultry",NA,NA,NA,3-4,Days,NA,4-6,Months,NA,No
+125,136,14,Fried chicken,"Fried chicken,chicken",NA,NA,NA,3-4,Days,NA,4,Months,NA,No
+126,140,25,Poultry pieces (covered with gravy or broth),"Poultry pieces,gravy,broth,poultry,pieces,piece",NA,NA,NA,3-4,Days,NA,1-2,Months,NA,No
+127,141,14,Rotisserie chicken,"Rotisserie chicken,chicken,Rotisserie",NA,NA,NA,3-4,Days,NA,4,Months,NA,No
+128,142,16,Canned chicken,"Canned chicken,chicken,canned,can",5-5,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+129,143,16,Retort pouches or boxes,"Retort pouches,boxes,box,retort,pouch",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+130,144,20,"Lean fish (cod, flounder, haddock, halibut, sole, etc.)","Lean fish,cod, flounder,haddock,halibut,sole,fish",NA,NA,NA,1-2,Days,NA,6-8,Months,NA,No
+131,145,20,"Lean fish (pollock, ocean perch, rockfish, sea trout.)","Lean fish,pollock,ocean,rockfish, sea,sea trout,fish,ocean perch,perch,trout,rock",NA,NA,NA,1-2,Days,NA,4-8,Months,NA,No
+132,146,20,"Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)","Fatty fish,bluefish,catfish,mackerel,mullet,salmon,tuna,fish,fatty,blue,cat",NA,NA,NA,1-2,Days,NA,2-3,Months,NA,No
+133,147,20,"Caviar (fresh, in jar)","Caviar,fresh,jar",NA,NA,NA,1-4,Weeks,NA,NA,NA,NA,No
+134,148,20,Cooked fish (all),"Cooked fish,fish,all",NA,NA,NA,3-4,Days,NA,1-2,Months,NA,No
+135,149,20,Surimi seafood,"Surimi seafood,surimi,sea,food",NA,NA,NA,NA,NA,NA,9,Months,NA,No
+136,150,21,Scallops,"Scallops,scallop",NA,NA,NA,1-3,Days,NA,6-18,Months,NA,No
+137,151,21,"Shrimp, crayfish","Shrimp,crayfish,cray,fish",NA,NA,NA,1-3,Days,NA,6-18,Months,NA,No
+138,152,21,Squid,Squid,NA,NA,NA,1-3,Days,NA,6-18,Months,NA,No
+139,153,21,"Shucked clams, mussels, and oysters","Shucked clams,mussels,oysters,clams,clam,mussels,mussel,oyster",NA,NA,NA,3-10,Days,NA,3-4,Months,NA,No
+140,154,21,Crab meat (fresh),"Crab meat,meat,fresh,crab",NA,NA,NA,1-3,Days,NA,2-4,Months,NA,No
+141,155,21,Crab meat (pasteurized),"Crab meat,meat,pasteurized,crab",NA,NA,NA,10-12,Months,NA,4-10,Months,NA,Yes
+142,156,21,"Crab legs (king, dungeness, snow)","Crab legs,king,dungeness,snow,crab,legs,leg",NA,NA,NA,2-4,Days,NA,9-12,Months,NA,No
+143,157,21,"Live clams, mussels, crab, and oysters","Live clams,mussels,crab,oysters,clams,clam,mussel,oyster",NA,NA,NA,1-2,Days,NA,2-3,Months,NA,No
+144,158,21,Fresh whole lobster (live),"Fresh whole lobster,lobster,live,whole lobster",NA,NA,NA,1,Days,It is not safe to cook and eat a whole lobster if it is dead at the time of preparation.,NA,NA,NA,No
+145,159,21,Fresh lobster tails (cooked),"Fresh lobster tails,tails,cooked,lobster tails,tail",NA,NA,NA,2-3,Days,NA,2-4,Weeks,NA,No
+146,160,21,"Fresh clams, mussels, oysters","Fresh clams,clams,oysters,clam,mussels,mussel,oyster",NA,NA,NA,5-10,Days,NA,NA,NA,NA,No
+147,161,21,Fresh whole lobster (frozen),"Fresh whole lobster,lobster,frozen,whole lobster",NA,NA,NA,1-2,Days,NA,2-4,Weeks,NA,No
+148,162,21,Cooked shellfish (all),"Cooked shellfish,shellfish,fish,cooked",NA,NA,NA,3-4,Days,NA,1-3,Months,NA,No
+149,163,22,"Herring (glass packed, in wine sauce)","Herring,glass packed,wine sauce,packed,glass,wine,sauce",NA,NA,NA,4-6,Months,NA,NA,NA,NA,Yes
+150,164,22,"Fish (hot smoked, air pack)","Fish,hot smoked,air pack,hot,smoked,pack
+",NA,NA,NA,14-45,Days,NA,9-12,Months,NA,No
+151,165,22,"Fish (hot smoked, vacuum pack)","Fish,hot smoked,vacuum pack,hot,smoked,vacuum,pack",NA,NA,NA,14-45,Days,NA,6-12,Months,NA,No
+152,166,22,"Fish (cold smoked, air pack)","Fish,cold smoked,air pack,cold,smoked,pack",NA,NA,NA,14-30,Days,NA,9-12,Months,NA,No
+153,167,22,"Fish (cold smoked, vacuum pack)","Fish,cold smoked,vacuum pack,cold,smoked,vacuum,pack",NA,NA,NA,21-30,Days,NA,9-12,Months,NA,No
+154,168,24,Tofu,Tofu,NA,NA,NA,1,Weeks,NA,5,Months,NA,No
+155,169,24,Miso,Miso,NA,NA,NA,1,Years,NA,NA,NA,NA,No
+156,170,24,Soy flour (full-fat),"Soy flour,full fat,soy,flour,fat",2-2,Months,NA,6,Months,NA,NA,NA,NA,No
+157,171,24,Textured soy protein ((TSP)),"Textured soy protein,protein,TSP,soy protein,soy",2-2,Years,NA,NA,NA,NA,NA,NA,NA,No
+158,172,24,Re-hydrated textured soy protein ((TSP)),"Re hydrated textured soy protein,protein,TSP,soy,soy protein,textured soy protein,Re hydrated ",3-4,Months,NA,3-4,Days,Refrigeration time applies to prepared product.,NA,NA,NA,No
+159,173,25,"Leftovers (with meat, fish, poultry, or egg)","Leftovers,meat,fish,poultry,egg,leftover",NA,NA,NA,3-4,Days,NA,2-3,Months,NA,No
+160,174,25,"Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))","leftover,leftovers,without meat,fish,poultry,egg,cooked vegetables,rice,potatoes,meat,vegetables,potato,vegetable",NA,NA,NA,3-4,Days,NA,1-2,Months,NA,No
+161,175,25,Leftovers (pizza),"Leftovers,pizza",NA,NA,NA,3-4,Days,NA,1-2,Months,NA,No
+162,176,25,Commercial brand vacuum-packed dinners (with USDA seal),"Commercial brand vacuum-packed dinners,brand vacuum packed dinners,USDA seal,USDA,seal,dinners,dinner,vacuum packed,vacuum packed dinner,packed dinner,packed",NA,NA,NA,2,Weeks,NA,NA,NA,NA,No
+163,177,25,Cooked pasta,"Cooked pasta,pasta",NA,NA,NA,3-5,Days,NA,1-2,Months,NA,No
+164,178,25,Cooked rice,"Cooked rice,rice",NA,NA,NA,4-6,Days,NA,6,Months,NA,No
+165,179,25,"Fruit, cut","Fruit,cut",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+166,180,25,Guacamole,Guacamole,NA,NA,NA,3-4,Days,NA,3-4,Months,NA,No
+167,181,25,"Hummus (commercial (pasteurized, with preservatives))","Hummus,commercial,pasteurized,preservatives,preservative",NA,NA,NA,3,Months,NA,NA,NA,NA,Yes
+168,183,25,"Hummus (traditional (no preservatives, not pasteurized))","Hummus,traditional,no preservatives,not pasteurized,no preservative,preservatives,preservative,pasteurized",NA,NA,NA,7,Days,NA,NA,NA,NA,No
+169,184,25,Luncheon meat or poultry (store-sliced),"Luncheon meat,poultry,store sliced,meat,luncheon,store,sliced",NA,NA,NA,3-5,Days,NA,1-2,Months,NA,No
+170,185,25,Main dishes or meals (hot or refrigerated),"Main dishes,meals,hot,refrigerated,dishes,dish,meal",NA,NA,NA,3-4,Days,NA,2-3,Months,NA,No
+171,186,25,Meats (covered with gravy or broth),"Meats,gravy,broth,meat",NA,NA,NA,3-4,Days,NA,6,Months,NA,No
+172,187,25,Olives (from olive bar),"Olives,bar,olive",NA,NA,NA,2,Weeks,NA,NA,NA,NA,No
+173,188,25,Pate,Pate,NA,NA,NA,1-2,Days,NA,1-2,Months,NA,No
+174,192,25,Luncheon meat or poultry (pre-packaged),"Luncheon meat,luncheon,meat,poultry,packaged,pre packaged",NA,NA,NA,2,Weeks,NA,1-2,Months,NA,No
+175,193,25,"Soup, stews","Soup,stews,stew",NA,NA,NA,3-4,Days,NA,2-3,Months,NA,No
+176,194,25,Casseroles,"Casseroles,Casserole",NA,NA,NA,3-4,Days,NA,NA,NA,NA,No
+177,195,2,"Commercial bread products (including pan breads, flat breads, rolls, and buns)","Commercial bread products,pan breads,flat breads,rolls,buns,bread products,bread,products,product,pan,breads,bread,flat,roll,bun",14-18,Days,NA,NA,NA,NA,3-5,Months,NA,No
+178,196,9,Tortillas (flour),"Tortillas,Tortilla",3-3,Months,NA,NA,NA,NA,6,Months,NA,Yes
+179,197,2,Commercial cakes and muffins,"Commercial cakes,cake,muffin,muffins",3-7,Days,NA,NA,NA,NA,6,Months,NA,No
+180,198,2,Cheesecake,"Cheesecake,cake,cheese",NA,NA,NA,NA,NA,NA,3-6,Months,NA,No
+181,199,2,Cookies (soft),"Cookies,soft,cookie",2-3,Months,NA,NA,NA,NA,8-12,Months,NA,Yes
+182,200,2,Cookies (crispy),"Cookies,crispy,cookie",4-6,Months,NA,NA,NA,NA,8-12,Months,NA,Yes
+183,201,2,Dairy filled eclairs,"Dairy filled eclairs,dairy filled,eclairs,éclair,dairy",NA,NA,NA,NA,NA,NA,3,Months,NA,No
+184,202,2,Doughnuts,"Doughnuts,doughnut,dough,nut",1-2,Days,NA,NA,NA,NA,NA,NA,NA,No
+185,203,2,Fruit cake,"Fruit cake,fruit,cake",6-6,Months,NA,NA,NA,NA,12,Months,NA,Yes
+186,204,2,"Pastries, danish","Pastries,danish,pastry",5-10,Days,NA,NA,NA,NA,NA,NA,NA,No
+187,205,2,"Cream pies (banana cream, coconut cream, butterscotch)","Pies,cream,pie, banana, banana cream,coconut,coconut cream,butterscotch",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+188,206,2,"Chiffon pies (chocolate, lemon)","Pies,chiffon,pie,chocolate,lemon,chocolate pie,lemon pie",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+189,207,2,"Fruit pies (apple, peach, blueberry, apricot, cherry, blackberry)","Pies,fruit,pie,apple,apple pie,peach,peach pie,blueberry,blueberry pie,cherry,cherry pie,apricot,apricot pie,blackberry,blackberry pie",1-2,Days,NA,NA,NA,NA,8,Months,NA,No
+190,208,2,Pies (mincemeat),"Pies,mincemeat,pie,meat,mince",2,Hours,NA,NA,NA,NA,8,Months,NA,No
+191,209,2,Pies (pecan),"Pies,Pie,pecan",2,Hours,NA,NA,NA,NA,1-2,Months,NA,No
+192,210,2,Pies (pumpkin),"Pies,Pie,pumpkin",2,Hours,NA,NA,NA,NA,1-2,Months,NA,No
+193,211,2,Quiche,Quiche,2,Hours,NA,NA,NA,NA,2-3,Months,NA,No
+194,212,3,Baking powder,"Baking powder,baking,powder",6-18,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+195,213,3,Baking soda,"Baking soda,soda,baking",2-3,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+196,214,3,Biscuit or pancake mix,"Biscuit,pancake mix,pancake,mix,cake",9-9,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+197,215,3,"Cake, brownie, bread mixes","Cake,brownie,bread mixes,bread,mixes,mix",12-18,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+198,216,3,"Chocolate (unsweetened and semi-sweet, solid)","Chocolate,unsweetened,semi sweet,solid,sweet",1-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+199,217,3,Cocoa and cocoa mixes,"Cocoa,cocoa mixes,mixes,mix",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+200,218,3,"Cornmeal (regular, degerminated)","Cornmeal,regular,degerminated,germinated,germinate,corn,meal",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+201,219,3,Cornmeal (stone ground or blue),"Cornmeal,stone ground,blue,ground,stone,corn,meal",1-1,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+202,220,3,Cornstarch,"Cornstarch,corn,starch",18-24,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+203,222,3,Flour (white),"Flour,white",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+204,223,3,Flour (whole wheat),"Flour,whole wheat,wheat",3-6,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+205,224,3,Frosting or icing,"Frosting,icing,frost,ice",10-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+206,225,3,Gelatin (flavored),"Gelatin,flavor,flavored",10-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+207,226,3,Gelatin (unflavored),"Gelatin,unflavor,unflavored",3-3,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+208,227,3,Oils (olive or vegetable),"Oils,olive,vegetable,oil",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+209,228,3,Nut oils,"Nut oils,nut,oils,oil",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+210,229,3,Vegetable oil sprays,"Vegetable oil sprays,sprays,oil,vegetable,vegetable oil",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+211,230,3,Shortening (solid),"Shortening,solid",1-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+212,231,3,Tamarind paste,"Tamarind paste,paste,tamarind",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+213,232,3,Chili powder,"Chili powder,powder,chili",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+214,233,3,Seasoning blends,"Seasoning blends,blends,seasoning,blend",1-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+215,234,3,Flavored or herb mixes,"Flavored,herb mixes,herb,flavor,mixes,mix",6-6,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+216,235,3,"Garlic (chopped, commercial jars)","Garlic,chopped,jars,commercial jars,jar",8-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+217,236,3,Herbs (dried),"Herbs,dried,herb",1-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+218,237,3,Spice/spices (whole),"Spice,spices,whole",3-4,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+219,238,3,Spice/spices (ground),"Spice,spices,ground",2-3,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+220,239,3,Sugar (brown),"Sugar,brown",NA,NA,"Sugar never spoils, but for best quality use within 2 years of opening.",NA,NA,NA,NA,NA,NA,No
+221,240,3,Sugar (granulated),"Sugar,granulated",NA,NA,"Sugar never spoils, but for best quality use within 2 years of opening.",NA,NA,NA,NA,NA,NA,No
+222,241,3,Sugar (confectioners),"Sugar,confectioners,confectioner",NA,NA,"Sugar never spoils, but for best quality use within 2 years of opening.",NA,NA,NA,NA,NA,NA,No
+223,242,3,Sugar substitutes,"Sugar substitutes,sugar,substitutes,substitute",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+224,243,3,Tapiocas,"Tapiocas,Tapioca",12-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+225,245,4,"Tube cans (of biscuits, rolls, pizza dough, etc.)","Tube cans,biscuits,biscuit,rolls,roll,pizza,pizza dough,dough,tube can,can,tube",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+226,246,4,Ready-to-bake pie crust,"Ready to bake pie crust,pie,crust,bake,ready",NA,NA,NA,NA,NA,NA,2,Months,NA,No
+227,247,4,Cookie dough,"Cookie dough,cookie,dough",NA,NA,NA,NA,NA,NA,2,Months,NA,No
+228,248,18,Apples,"Apples,apple",3-3,Weeks,NA,4-6,Weeks,NA,8,Months,Freezing guidance applies to cooked product.,No
+229,249,18,Apricots,"Apricots,Apricot",NA,NA,"Ripe is when this item is tender, fully developed and ready to eat.",2-5,Days,Timeline for refrigerator applies to ripe fruit.,NA,NA,NA,No
+230,250,18,Avocados,"Avocados,Avocado",NA,NA,"Ripe is when this item is tender, fully developed and ready to eat.",3-4,Days,Timeline for refrigerator applies to ripe fruit.,NA,NA,NA,No
+231,251,18,Bananas,"Bananas,banana",NA,NA,"Ripe is when this item is tender, fully developed and ready to eat.",3,Days,Timeline for refrigerator applies to ripe fruit; skin will blacken.,2-3,Months,NA,No
+232,252,18,"Berries (cherries, goose berries, lychee)","Berries,berry,cherries,cherry,goose berries,goose berry,lychee,gooseberries",NA,NA,NA,7,Days,NA,12,Months,NA,No
+233,253,18,"Berries (blackberries, boysenberries, currant)","Berries,berry,blackberries,blackberry,boysenberries,boysenberry,currant",NA,NA,NA,3-6,Days,NA,12,Months,NA,No
+234,254,18,Blueberries,"Blueberries,blueberry,berries,berry",NA,NA,NA,1-2,Weeks,NA,8-12,Months,NA,No
+235,255,18,Cherimoya,Cherimoya,NA,NA,"Ripe is when this item is tender, fully developed and ready to eat.",4,Days,Timeline for refrigerator applies to ripe fruit.,10-12,Months,NA,No
+236,256,18,"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)","Citrus fruit,fruit,citrus,lemon,lime,orange,grape,grapefruit,tangerines,tangerine,clementines,clementine",10-10,Days,NA,10-21,Days,NA,NA,NA,NA,No
+237,257,18,Coconut (shredded),"Coconut,shredded",1-1,Years,Applies to unopened coconut.,NA,NA,NA,1,Years,NA,Yes
+238,258,18,Coconuts (fresh),"Coconuts,Coconut,fresh",1-1,Weeks,NA,2-3,Weeks,NA,NA,NA,NA,No
+239,259,18,Cranberries,"Cranberries,cranberry",NA,NA,NA,2,Months,NA,12,Months,NA,Yes
+240,260,18,Dates,Dates,2-2,Months,NA,12,Months,NA,1-2,Years,NA,Yes
+241,261,18,Grapes,"Grapes,grape",1-1,Days,NA,1,Weeks,NA,1,Months,Freezing guidance applies to whole grapes.,No
+242,262,18,Guava,Guava,NA,NA,"Ripe is when this item is tender, fully developed and ready to eat. Note, these spoil quickly.",2-4,Days,Timeline for refrigerator applies to ripe fruit.,NA,NA,NA,No
+243,263,18,Kiwi fruit,"Kiwi fruit,kiwi,fruit",NA,NA,"Ripe is when this item is tender, fully developed and ready to eat.",3-6,Days,Timeline for refrigerator applies to ripe fruit.,NA,NA,NA,No
+244,264,18,Melons,"Melons,melon",NA,NA,"Until Ripe, then 7 days. Ripe is when this item is tender, fully developed and ready to eat.",2,Weeks,NA,1,Months,Freezing guidance applies to balled melon.,No
+245,265,18,"Papaya, mango, feijoa, passionfruit, casaha melon","Papaya,mango,feijoa,passionfruit,casaha melon,melon,fruit,passion",3-5,Days,NA,1,Weeks,NA,6-8,Months,NA,No
+246,266,18,"Peaches, nectarines, plums, pears, sapote","Peaches,nectarines,plums,pears,sapote,peach,nectarine,plum,pear",NA,NA,"Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat.",3-5,Days,Timeline for refrigerator applies to ripe fruit.,2,Months,"Freezing guidance applies to product when sliced, with lemon juice and sugar.",No
+247,267,18,Pineapple,Pineapple,NA,NA,"Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat.",5-7,Days,Timeline for refrigerator applies to ripe fruit.,10-12,Months,NA,No
+248,268,18,Plantains,"Plantains,plantain",NA,NA,"Until Ripe, then 1-2 days. Ripe is when this item is tender, fully developed and ready to eat.",3-5,Days,Timeline for refrigerator applies to ripe fruit.,10-12,Months,NA,No
+249,269,18,Pomegranate,Pomegranate,2-5,Days,NA,1-3,Months,NA,10-12,Months,NA,Yes
+250,270,19,"Artichokes, whole","Artichokes,artichoke,whole",1-2,Days,NA,1-2,Weeks,NA,NA,NA,NA,No
+251,271,19,Asparagus,Asparagus,NA,NA,NA,3-4,Days,NA,5,Months,NA,No
+252,272,19,Bamboo shoots,"Bamboo shoots,bamboo,shoots,shoot",NA,NA,NA,2,Weeks,NA,NA,NA,NA,No
+253,273,19,"Beans and peas (green, fava, lima, soybean, wax, snow, sugar snap)","Beans,peas,green,fava,lima,soybean,wax,snow,sugar snap,sugar,pea,soya",NA,NA,NA,3-5,Days,NA,8,Months,NA,No
+254,274,19,Beets,Beets,1-1,Days,NA,1-2,Weeks,NA,6-8,Months,NA,No
+255,275,19,Bok choy,Bok choy,NA,NA,NA,2-3,Days,NA,10-12,Months,NA,No
+256,276,19,Broccoli and broccoli raab (rapini),"Broccoli,broccoli raab,rapini,raab",NA,NA,NA,3-5,Days,NA,10-12,Months,NA,No
+257,277,19,Brussels sprouts,"Brussels sprouts,brussels,sprouts,sprout,brussel",NA,NA,NA,3-5,Days,NA,10-12,Months,NA,No
+258,278,19,Cabbage,Cabbage,NA,NA,NA,1-2,Weeks,NA,10-12,Months,NA,No
+259,279,19,"Carrots, parsnips","Carrots,parsnips,carrot,parsnip",NA,NA,NA,2-3,Weeks,NA,10-12,Months,NA,No
+260,280,19,Cauliflower,Cauliflower,NA,NA,NA,3-5,Days,NA,10-12,Months,NA,No
+261,281,19,Celery,Celery,NA,NA,NA,1-2,Weeks,NA,10-12,Months,NA,No
+262,282,19,Corn on the cob,"Corn,cob",NA,NA,NA,1-2,Days,NA,8,Months,NA,No
+263,283,19,Cucumbers,"Cucumbers,cucumber",NA,NA,NA,4-6,Days,NA,NA,NA,NA,No
+264,284,19,Eggplant,"Eggplant,egg",1-1,Days,NA,4-7,Days,NA,6-8,Months,NA,No
+265,285,19,Garlic,Garlic,1-1,Months,Store unbroken bulbs in pantry.,3-14,Days,Store individual cloves in refrigerator.,1,Months,NA,Yes
+266,286,19,Ginger root,"Ginger root,ginger,root",2-5,Days,NA,2-3,Weeks,NA,6,Months,NA,No
+267,287,19,Greens,"Greens,green",NA,NA,NA,1-4,Days,NA,10-12,Months,NA,No
+268,288,19,Herbs,"Herbs,herb",NA,NA,NA,7-10,Days,NA,1-2,Months,NA,No
+269,289,19,Leeks,"Leeks,leek",NA,NA,NA,1-2,Weeks,NA,10-12,Months,NA,No
+270,290,19,"Lettuce (iceberg, romaine)","Lettuce,iceberg,romaine",NA,NA,NA,1-2,Weeks,NA,NA,NA,NA,No
+271,291,19,"Lettuce (leaf, spinach)","Lettuce,leaf,spinach",NA,NA,NA,3-7,Days,NA,NA,NA,NA,No
+272,292,19,Mushrooms,"Mushroom,mushrooms",NA,NA,NA,3-7,Days,NA,10-12,Months,NA,No
+273,293,19,Okra,Okra,1-1,Days,Highly perishable when stored in the pantry.,2-3,Days,NA,10-12,Months,NA,No
+274,294,19,"Onions (yellow, white, red, etc.)","Onions,yellow,white,red,onion",1-1,Months,NA,2,Months,NA,10-12,Months,NA,Yes
+275,295,19,Onions (spring or green),"Onions,spring,green,onion",1-1,Months,NA,1,Weeks,NA,10-12,Months,NA,Yes
+276,296,19,Peppers,"Peppers,pepper",NA,NA,NA,4-14,Days,NA,6-8,Months,NA,No
+277,297,19,Potatoes,"Potatoes,potato",1-2,Months,This is the recommended storage method for whole potatoes.,1-2,Weeks,The United States Potato Board notes refrigeration can cause potatoes to darken during cooking and to develop an unpleasantly sweet taste.,10-12,Months,Freezer timeline applies to cooked and mashed potatoes.,Yes
+278,298,19,Pumpkins,"Pumpkins,pumpkin",2-3,Months,NA,3-5,Months,NA,NA,NA,NA,Yes
+279,299,19,Radishes,"Radishes,radish",NA,NA,NA,10-14,Days,NA,NA,NA,NA,No
+280,300,19,Rhubarb,Rhubarb,NA,NA,NA,3-7,Days,NA,NA,NA,NA,No
+281,301,19,Rutabagas,Rutabagas,1-1,Weeks,NA,2-3,Weeks,NA,8-10,Months,NA,No
+282,302,19,Squash (summer and zucchini),"Squash,summer,zucchini",1-5,Days,NA,4-5,Days,NA,10-12,Months,NA,No
+283,303,19,Squash (winter),"Squash,winter",2-6,Weeks,NA,1-3,Months,NA,10-12,Months,NA,Yes
+284,304,19,Tamarind,Tamarind,1-3,Weeks,NA,6,Months,Refrigeration guidelines apply to just the pulp.,1,Years,Freezing guidelines apply to just the pulp.,Yes
+285,305,19,Taro,Taro,7-7,Days,NA,2-3,Days,Refrigeration not recommended.,NA,NA,NA,No
+286,306,19,Tomatoes,"Tomatoes,tomato",NA,NA,"Until Ripe, then 7 days. Ripe is when this item is tender, fully developed and ready to eat. Refrigeration may affect flavor; USDA recommends pantry storage.",NA,NA,NA,2,Months,NA,No
+287,307,19,Turnips,"Turnips,turnip",NA,NA,NA,2,Weeks,NA,8-10,Months,NA,No
+288,308,19,Yuca/cassava,"Yuca,cassava",7-7,Days,NA,3,Days,NA,1-2,Months,NA,No
+289,309,8,Dough (commercial (bread or cookie)),"Dough,commercial,bread,cookie",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,12,Months,"Keep frozen. For safety, cook as directed.",No
+290,310,8,Egg substitutes,"Egg substitutes,egg,substitute,Egg substitute",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,12,Months,"Keep frozen. For safety, cook as directed.",No
+291,311,8,Fish (breaded),"Fish,breaded,bread",NA,NA,NA,NA,NA,Not recommended to refrigerate after cooking due to decreased quality.,18,Months,"Keep frozen. For safety, cook as directed.",No
+292,312,8,Fish (raw but headed and gutted),"Fish,raw,headed,gutted",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,6,Months,"Keep frozen. For safety, cook as directed.",No
+293,313,8,"Frozen potato products (fries, hashbrowns, tater tots)","Frozen potato products,fries,hashbrowns,tater tots,potato products,products,product,frozen potato,hashbrown,tater tot",NA,NA,NA,NA,NA,Not recommended to refrigerate after cooking due to decreased quality.,12,Months,"Keep frozen. For safety, cook as directed.",No
+294,314,8,Frozen pretzels,"Frozen pretzels,frozen,pretzels,pretzel",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,9,Months,"Keep frozen. For safety, cook as directed.",No
+295,315,8,"Fruits (such as berries, melons)","Fruits,berries,melons,berry,melon",NA,NA,NA,NA,NA,Thawing in the refrigerator is not recommended.,10-18,Months,NA,No
+296,317,8,Ice cream,"Ice cream,ice,cream",NA,NA,NA,NA,NA,NA,6,Months,NA,No
+297,318,8,Ice pops,"Ice pops,ice,pops,pop",NA,NA,NA,NA,NA,NA,9,Months,NA,No
+298,319,8,Juice concentrates,"Juice concentrates,juice,concentrate",NA,NA,NA,NA,NA,NA,2,Years,NA,No
+299,320,8,Lobster tails,"Lobster tails,tail,lobster,Lobster tail",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,8,Months,"Keep frozen. For safety, cook as directed.",No
+300,321,8,"Pancakes, waffles","Pancakes,waffles,pancake",NA,NA,NA,NA,NA,Not recommended to refrigerate after cooking due to decreased quality.,3,Months,"Keep frozen. For safety, cook as directed.",No
+301,322,8,Sausages (uncooked),"Sausages,Sausage,uncooked,cooked",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,1-2,Months,"Keep frozen. For safety, cook as directed.",No
+302,323,8,Sausages (precooked),"Sausages,Sausage,precooked,cooked",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,1-2,Months,"Keep frozen. For safety, cook as directed.",No
+303,324,8,"Sherbet, sorbet","Sherbet,sorbet",NA,NA,NA,NA,NA,Not recommended to refrigerate after cooking due to decreased quality.,9,Months,NA,No
+304,325,8,"Shrimp, shellfish","Shrimp,shellfish,fish",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,12-18,Months,"Keep frozen. For safety, cook as directed.",No
+305,326,8,Soy crumbles and hot dogs,"Soy crumbles,hot dogs,hot dog,soy,soy crumble",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,1-2,Months,"Keep frozen. For safety, cook as directed.",No
+306,327,8,Soy meat substitutes,"Soy meat substitutes,soy,meat,soy meat,meat substitutes,substitutes,substitute",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,12-18,Months,"Keep frozen. For safety, cook as directed.",No
+307,328,8,Tempeh,Tempeh,NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,6,Months,"Keep frozen. For safety, cook as directed.",No
+308,330,8,Frozen entrees (prepared meals),"TV dinners,entrees,breakfast,dinners,dinner,entry,TV",NA,NA,NA,NA,NA,Not recommended to refrigerate after cooking due to decreased quality.,12,Months,"Keep frozen. For safety, cook as directed.",No
+309,331,8,Vegetables,"Vegetables,vegetable",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,10-18,Months,"Keep frozen. For safety, cook as directed.",No
+310,332,9,Fresh pasta,"Fresh pasta,pasta",NA,NA,NA,1-2,Days,NA,2,Months,NA,No
+311,333,9,Beans (dried),"Beans,dried",1-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+312,334,9,Lentils (dried),"Lentils,dried",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+313,335,9,"Pasta (dry, without eggs)","Pasta,dry,eggs,egg,without egg,without eggs",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+314,336,9,Dry egg noodles,"Dry egg noodles,egg noodles,egg,noodles,noodle,dry",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+315,337,9,Peas (dried split),"Peas,Pea,dried split,split",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+316,338,9,Rice (white or wild),"Rice,white,wild",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+317,339,9,Rice (brown),"Rice,brown",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+318,340,6,Barbecue sauce (bottled),"Barbecue sauce,sauce,bottled,Barbecue",1-1,Years,"Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial barbecue sauce is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",NA,NA,NA,NA,NA,NA,Yes
+319,341,6,Chutney,Chutney,1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+320,342,6,"Cream sauces, milk solids","Cream sauces,milk solids,sauce,solids,cream,sauces,milk,solid",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+321,343,6,Dry gravy mixes,"Dry gravy mixes,gravy,mixes,mix,dry",2-2,Years,NA,1-2,Days,Refrigeration time applies to prepared product.,NA,NA,NA,Yes
+322,344,6,Gravy (jars and cans),"Gravy,jars,cans,jar,can",2-5,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+323,345,6,Honey,Honey,2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+324,346,6,Horseradish (in jar),"Horseradish,jar",NA,NA,NA,12,Months,NA,NA,NA,NA,Yes
+325,347,6,"Jams, jellies, and preserves","Jams,jellies,preserves,jam,jelly,preserve",6-18,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+326,348,6,"Ketchup, cocktail, or chili sauce","Ketchup,cocktail,chili sauce,sauce,chili",1-1,Years,"Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial ketchup, cocktail sauce, and chili sauce are safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",NA,NA,NA,NA,NA,NA,Yes
+327,349,6,Marinades,"Marinades,marinade",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+328,350,6,Mayonnaise (commercial),"Mayonnaise,commercial",3-6,Months,"Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial mayonnaise is safe when stored at room temperature after opening.  Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",NA,NA,NA,NA,NA,NA,Yes
+329,351,6,Mustard,Mustard,1-2,Years,"Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial mustard is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",NA,NA,NA,NA,NA,NA,Yes
+330,352,6,Olives (black and green),"Olives,black,green,olive",12-18,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+331,353,6,Pickles,"Pickles,pickle",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+332,354,6,Pesto (jarred),"Pesto,jarred,jar",NA,NA,NA,6,Months,NA,1,Months,NA,Yes
+333,356,6,"Salad dressings (commercial, bottled)","Salad dressings,dressings,dressing,commercial,bottled,bottle,salad",10-12,Months,"Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial salad dressing is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",NA,NA,NA,NA,NA,NA,Yes
+334,357,6,Salsa (picante and taco sauces),"Salsa,picante,taco sauces,taco,sauces,sauce",1-1,Years,"Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial salsa is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",NA,NA,NA,NA,NA,NA,Yes
+335,358,6,"Sauce mixes (nondairy (spaghetti, taco, etc.))","Sauce mixes,sauce,mixes,mix,nondairy,dairy,spaghetti,taco",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+336,359,6,Spaghetti sauce (in jars),"Spaghetti sauce,sauce,in jars,jars,jar,spaghetti",18-18,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+337,360,6,Soy sauce or teriyaki sauce,"Soy sauce,teriyaki sauce,sauce,soy,teriyaki",3-3,Years,"Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial soy sauce and teriyaki sauce are safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",NA,NA,NA,NA,NA,NA,Yes
+338,361,6,Vinegar,Vinegar,2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+339,362,6,Worcestershire sauce,"Worcestershire sauce,Worcestershire,sauce",1-1,Years,"Refrigeration ensures that commercial sauces and condiments stay fresh for a longer period of time. Shelf-stable commercial worcestershire sauce is safe when stored at room temperature after opening. Quality, not safety, is the reason the labels on these products suggest that they be refrigerated after opening.",NA,NA,NA,NA,NA,NA,Yes
+340,363,1,Jars or pouches,"Jars,pouches,jar,pouch",NA,NA,Should be discarded after use-by date.,NA,NA,NA,NA,NA,NA,No
+341,364,1,Fruit,Fruit,NA,NA,Should be discarded after use-by date.,NA,NA,NA,NA,NA,NA,No
+342,365,1,Vegetables,"Vegetables,vegetable",NA,NA,Should be discarded after use-by date.,NA,NA,NA,NA,NA,NA,No
+343,366,1,Dinners,"Dinners,dinner",NA,NA,Should be discarded after use-by date.,NA,NA,NA,NA,NA,NA,No
+344,367,1,"Cereal, dry mixes","Cereal,dry mixes,mixes,mix,dry",NA,NA,Should be discarded after use-by date.,NA,NA,NA,NA,NA,NA,No
+345,368,1,Formula (prepared),"Formula,prepared,prepare",NA,NA,Should be discarded after use-by date.,NA,NA,NA,NA,NA,NA,No
+346,369,1,Liquid concentrate or ready-to-feed formula,"Liquid concentrate,ready to feed formula,concentrate,liquid,formula,feed,ready to feed,feed formula",NA,NA,Should be discarded after use-by date.,NA,NA,NA,NA,NA,NA,No
+347,370,23,Applesauce (commercial),"Applesauce,Apple,sauce,commercial",12-18,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+348,371,23,Bacon bits (imitation),"Bacon bits,bits,imitation,bacon,bit",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+349,372,23,"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))","Canned goods,canned,can,goods,low acid,low,meat,poultry,fish,gravy,stew,soups,soup,beans,bean,carrots,carrot,corn,pasta,peas,pea,potatoes,potato,spinach",2-5,Years,"Canned items will be safe to eat well past the ‘use-by’ or ‘best by’ date as long as the can shows no dents, rust, or swelling.",NA,NA,NA,NA,NA,NA,Yes
+350,373,23,"Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))","Canned goods,canned,can,goods,high acid,high,juices,juice,fruit,fruits,pickles,pickle,sauerkraut,tomato soup,soup,tomato,foods in vinegar based sauce,sauce,foods,food,vinegar based,vinegar",12-18,Months,"Canned items will be safe to eat well past the ‘use-by’ or ‘best by’ date as long as the can shows no dents, rust, or swelling.",NA,NA,NA,NA,NA,NA,Yes
+351,374,23,Cereal (ready-to-eat),"Cereal,ready,eat",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+352,375,23,"Cereal (cook before eating (oatmeal, etc.))","Cereal,cook before eating,oatmeal,oats,oat,meal",12-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+353,376,23,Chocolate syrup,"Chocolate syrup,Chocolate,syrup",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+354,377,23,Crackers,"Crackers,cracker",8-8,Months,NA,NA,NA,NA,3-4,Months,NA,Yes
+355,378,23,Graham cracker/animal cracker,"Graham cracker,animal cracker,Graham,cracker,animal",6-9,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+356,379,23,"Fruits, dried (raisins, apricots, mangoes, cranberries, etc.)","Fruits,fruit,dried,raisins,raisin,apricots,apricot,mangoes,mangoe,cranberries,cranberry",6-6,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+357,380,23,Gummy (fruit) snacks,"fruit snack,gummy,fruit,snacks,snack,gummy snacks,fruit snacks,gummy snack",6-9,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+358,381,23,Marshmallows,"Marshmallows,Marshmallow",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+359,382,23,Marshmallow crème,"Marshmallow crème,Marshmallow,crème",2-5,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+360,383,23,Milk (canned evaporated or condensed),"Milk,can,canned,evaporated,condensed,evaporate,condense",12-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+361,384,23,Molasses,Molasses,1-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+362,385,23,Mushrooms (dried),"Mushrooms,Mushroom,dried",1-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+363,386,23,Nuts (jars or cans),"Nuts,nut,jar,jars,cans,can",1-1,Years,NA,NA,NA,NA,6-12,Months,NA,Yes
+364,387,23,Peanut butter (commercial),"Peanut butter,butter,commercial,peanut",6-24,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+365,388,23,Pectin,Pectin,NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+366,389,23,Popcorn (dry kernels in jar),"Popcorn,dry kernels in jar,jar,dry kernels,kernels,in jar,kernel,chips,chip",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+367,390,23,Popcorn (commercially popped in bags),"Popcorn,commercially,popped in bags,bags,bag,in bags",2-3,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+368,391,23,Popcorn (microwave packets),"Popcorn,microwave packets,packets,microwave,packet",6-12,Months,After opening time applies to prepared product.,NA,NA,NA,NA,NA,NA,Yes
+369,392,23,Potato chips,"Potato chips,potato,chips,chip,potatoes",2-2,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+370,393,23,Potatoes (instant),"Potatoes,Potato,instant",10-15,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+371,394,23,Pretzels,"Pretzels,Pretzel",4-9,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+372,395,23,Pudding mixes,"Pudding mixes,Pudding,mixes,mix",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+373,396,23,Soup mixes (dry bouillon),"Soup mixes,mixes,mix,soup,dry bouillon,bouillon",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+374,397,23,Sun dried tomatoes (jar),"Sun dried tomatoes,dried tomatoes,sun,sun dried,dried,tomatoes,tomato",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+375,398,23,Syrup,Syrup,1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+376,399,23,Toaster pastries,"Toaster pastries,pastry,Toaster,pastries",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+377,400,5,Coffee (whole beans),"Coffee,whole beans,beans,whole,bean",3-5,Months,NA,NA,NA,NA,NA,NA,NA,No
+378,401,5,"Coffee (home ground, non-vacuum)","Coffee,home ground,non vacuum,ground,home,vacuum",3-5,Months,NA,NA,NA,NA,1-2,Years,NA,No
+379,402,5,Coffee (instant),"Coffee,instant",1-1,Years,NA,NA,NA,NA,NA,NA,NA,No
+380,403,5,Diet powder mixes and drink mixes,"Diet powder mixes,drink mixes,mixes,drink,powder mixes,diet powder,mix",18-24,Months,NA,NA,NA,NA,NA,NA,NA,No
+381,404,5,"Fruit Juice in cartons, fruit drinks, punch","Fruit Juice in cartons,fruit drinks,punch,fruit,fruit juice,juice in cartons,cartons,carton,drinks,drink",3-3,Weeks,NA,NA,NA,NA,NA,NA,NA,No
+382,405,5,"Juice, boxes","Juice, boxes,box",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+383,406,5,"Nectar (papaya, mango, guava, or guavabana)","Nectar,papaya,mango,guava,guavabana,mangoes",12-18,Months,NA,NA,NA,NA,NA,NA,NA,No
+384,407,5,"Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)","Soda,carbonated cola drinks,mixers,diet sodas,bottles,cans,cola drinks,drinks,drink,cola,carbonated,carbonated cola,mixer,diet,sodas,bottle,can",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+385,408,5,Soy or rice beverage,"Soy,rice beverage,rice,beverage",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+386,410,5,Tea (bags),"Tea,bags,bag",18-36,Months,NA,NA,NA,NA,NA,NA,NA,No
+387,411,5,Tea (instant),"Tea,instant",2-3,Years,NA,NA,NA,NA,NA,NA,NA,No
+388,412,5,Tea (loose),"Tea,loose",2-2,Years,NA,NA,NA,NA,NA,NA,Matcha tea is the only tea that can be frozen after opening.,No
+389,413,5,Water (commercially bottled),"Water,commercially bottled,bottled,commercially,bottle,commercial",NA,NA,"Water will store indefinitely, though the taste may be impacted by storage conditions, including sunlight, items stored around it and the containers being used to store it.",NA,NA,NA,NA,NA,NA,No
+390,414,18,Kumquats,Kumquats,NA,NA,"Ripe is when this item is tender, fully developed and ready to eat.",3,Weeks,Timeline for refrigerator applies to ripe fruit.,NA,NA,NA,No
+391,415,19,"Bagged greens (leaf, spinach, lettuce, etc.)","Bagged greens,leaf,spinach,lettuce,bagged,greens,green",NA,NA,NA,3-5,Days,Unopened product will last 3 - 5 days after date on bag; after opening it will last 2 days.,NA,NA,NA,No
+392,416,6,Tahini,Tahini,1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+393,190,25,Egg salad,"Egg salad,egg,salad",NA,NA,NA,3-4,Days,NA,NA,NA,NA,No
+394,191,25,Potato salad,"Potato salad,potato,salad",NA,NA,NA,3-5,Days,NA,NA,NA,NA,No
+395,417,25,"Seafood salads ((tuna salad, shrimp salad, salmon salad, mixed seafood salad, etc.))","Seafood salads,tuna salad, shrimp salad, salmon salad, mixed seafood salad,seafood,salads,salad,tuna,shrimp,salmon,mixed,mixed seafood,seafood salad,",NA,NA,NA,3-4,Days,NA,NA,NA,NA,No
+396,418,25,Chicken salad,"Chicken salad,chicken,salad",NA,NA,NA,3-4,Days,NA,NA,NA,NA,No
+397,419,25,Ham salad,"Ham salad,ham,salad",NA,NA,NA,3-4,Days,NA,NA,NA,NA,No
+398,420,25,Pasta salad,"Pasta salad,pasta,salad",NA,NA,NA,3-5,Days,NA,NA,NA,NA,No
+399,421,7,Soy milk,"Soy milk,soy,milk",NA,NA,NA,NA,NA,Keep refrigerated.,NA,NA,NA,No
+400,422,19,Yams/sweet potatoes,"Yams,sweet potatoes,potatoes,potato,yam",2-3,Weeks,NA,NA,NA,NA,NA,NA,NA,No
+401,423,19,Kale,Kale,NA,NA,NA,3-5,Days,NA,8-12,Months,NA,No
+402,425,9,Quinoa (uncooked),"Quinoa,cooked,uncooked,cook",2-3,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+403,426,9,Quinoa (cooked),"Quinoa,cook,cooked",NA,NA,NA,6-7,Days,NA,6-12,Months,NA,No
+404,427,7,Almond milk,"Almond milk,milk,almond",NA,NA,NA,NA,NA,Keep refrigerated.,NA,NA,NA,No
+405,428,7,Rice milk,"Rice milk,rice,milk",NA,NA,NA,NA,NA,Keep refrigerated.,NA,NA,NA,No
+406,429,7,Coconut milk,"Coconut milk,coconut,milk",NA,NA,NA,NA,NA,Keep refrigerated.,NA,NA,NA,No
+407,430,7,Coffee creamer (powdered),"Coffee creamer,creamer,cream,coffee,powdered,powder",2-2,Years,"Store in a dry, cool environment",NA,NA,NA,NA,NA,NA,No
+408,431,14,Turkey bacon,"Turkey bacon,turkey,bacon",NA,NA,NA,2,Weeks,Unopened.,2-4,Months,NA,No
+409,432,23,Fruit cocktail (canned ),"Fruit cocktail,cocktail,fruit,canned,can",NA,NA,NA,NA,NA,NA,NA,NA,NA,Yes
+410,433,6,Black bean sauce,"Black bean sauce,sauce,bean,black,black bean,bean sauce",18-24,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+411,434,6,Oyster sauce,"Oyster sauce,oyster,sauce",18-24,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+412,435,6,Hoisin sauce,"Hoisin sauce,sauce,Hoisin",18-24,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+413,436,12,Pork roll,"Pork roll,Pork,roll",NA,NA,NA,NA,NA,Keep refrigerated.,NA,NA,NA,No
+414,437,23,Almonds  (shell),"Almonds,Almond,shell",6-6,Months,NA,16,Months,NA,20,Months,NA,Yes
+415,438,23,Almonds  (no shell),"Almonds,Almond,no shell,shell",4-4,Months,NA,8,Months,NA,10,Months,NA,Yes
+416,439,23,Cashews (no shell),"Cashews,Cashew,no shell,shell",2-4,Weeks,NA,6,Months,NA,12,Months,NA,Yes
+417,440,23,Macadamias (no shell),"Macadamias,Macadamia,no shell,shell",2-4,Weeks,NA,12,Months,NA,24,Months,NA,Yes
+418,441,23,Peanuts (shell),"Peanuts,Peanut,shell,nut",4-4,Months,NA,12,Months,NA,24,Months,NA,Yes
+419,442,23,Peanuts (no shell),"Peanuts,Peanut,no shell,shell,nut",4-4,Weeks,NA,12,Months,NA,24,Months,NA,Yes
+420,443,23,Pecans (shell),"Pecans,Pecan,shell",2-4,Weeks,NA,12,Months,NA,24,Months,NA,Yes
+421,444,23,Pecans (no shell),"Pecans,Pecan,no shell,shell",2-4,Weeks,NA,9,Months,NA,24,Months,NA,Yes
+422,445,23,Pistachios (shell or no shell),"Pistachios,shell,no shell,Pistachio,pista",3-3,Weeks,NA,12,Months,Refrigeration of this item provides no benefit.,24,Months,Freezing of this item provides no benefit.,Yes
+423,446,23,Walnuts (shell or no shell),"Walnuts,shell,no shell,walnut",2-4,Weeks,NA,9-12,Months,NA,24,Months,NA,Yes
+424,447,5,Lime juice,"Lime juice,lime,juice",12-18,Months,NA,NA,NA,NA,NA,NA,NA,No
+425,448,5,Lemon juice,"Lemon juice,lemon,juice",12-18,Months,NA,NA,NA,NA,NA,NA,NA,No
+426,449,2,Bagel (fresh baked),"Bagel,fresh baked,baked",1-2,Days,NA,NA,NA,Refrigeration not recommended - bagel will quickly dry out and become stale.,3,Months,NA,No
+427,450,2,Bagel  (commercially frozen),"Bagel,commercially frozen,frozen",NA,NA,NA,NA,NA,NA,3,Months,NA,No
+428,451,2,"Muffin (homemade - including bran, blueberry, banana, corn, chocolate chip)","Muffin,homemade including bran,homemade,bran,blueberry,banana,corn,chocolate chip,including bran,chocolate,chip",3-7,Days,NA,NA,NA,Refrigeration not recommended - muffin will quickly dry out and become stale.,2-3,Months,NA,No
+429,452,2,Muffin (commercially packaged),"Muffin,commercially packaged,packaged",3-7,Days,NA,NA,NA,Refrigeration not recommended - muffin will quickly dry out and become stale.,3,Months,NA,No
+430,453,2,"Muffin (mix, dry, commercially packaged)","Muffin,mix,dry,commercially packaged,packaged,commercially,commercial",9,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+431,454,23,Coconut oil,"Coconut oil,coconut,oil",3,Years,NA,NA,NA,Refrigeration not recommended - makes it difficult to use.,NA,NA,Freezing not recommended - makes it difficult to use.,Yes
+432,455,5,Orange juice (commercially packaged carton),"Orange juice,commercially packaged carton,orange,juice,commercially,packaged,carton,packaged carton,commercially packaged,commercial",NA,NA,NA,NA,NA,Good for 1 week after date on package.,8-12,Months,NA,No
+433,456,5,Orange juice (commercially frozen concentrate),"Orange juice,commercially frozen concentrate,orange,juice,commercially,frozen,concentrate,commercially frozen,frozen concentrate",NA,NA,NA,NA,NA,"After prepared for drinking, good for up to 1 week.",12,Months,NA,No
+434,457,5,Orange juice (freshly squeezed),"Orange juice,orange,juice,freshly squeezed,squeezed,freshly,fresh,sqeeze",NA,NA,NA,2-3,Days,NA,2-3,Weeks,NA,No
+435,458,23,Roasted red peppers (jar),"Roasted red peppers,roasted,red,peppers,jar,Roasted red,red peppers,pepper",NA,NA,NA,4-6,Months,NA,NA,NA,NA,Yes
+436,459,3,Whole wheat flour,"Whole wheat flour,Whole,wheat,flour,wheat flour,whole wheat",12,Months,NA,2,Years,NA,2,Years,NA,Yes
+437,460,9,Whole wheat bread (homemade),"Whole wheat bread,Whole,wheat,bread,homemade,whole wheat,wheat bread",3-5,Days,May have shorter shelf life due to lack of preservatives.,NA,NA,Refrigeration not recommended - bread will quickly dry out and become stale.,3,Months,NA,No
+438,461,9,Whole wheat bread (commercially baked & pre-sliced),"Whole wheat flour,Whole,wheat,flour,wheat flour,whole wheat,commercially baked,pre sliced,sliced,slice,baked,commercially,commercial",3-5,Days,NA,NA,NA,Refrigeration not recommended - bread will quickly dry out and become stale.,3,Months,NA,No
+439,462,5,Red wine,"Red wine,red,wine",3-5,Years,"Dark, away from direct heat or sunlight.",NA,NA,NA,NA,NA,NA,No
+440,463,5,White wine,"White wine,white,wine",1-2,Years,"Dark, away from direct heat or sunlight.",NA,NA,NA,NA,NA,NA,No
+441,464,23,Dry stuffing mix (commercially packaged),"Dry stuffing mix,Dry stuffing,stuffing mix,Dry,stuffing,mix,commercially packaged,packaged,commercially,commercial,pack",9-12,Months,Do not refrigerate.,NA,NA,NA,NA,NA,NA,Yes
+442,465,7,Powdered milk,"Powdered milk,Powdered,milk,powder",3-5,Years,"3 - 5 year timetable based on cool temperatures, dark storage. May spoil as quickly as 3 months in hot temperatures.",NA,NA,NA,NA,NA,NA,No
+443,466,23,Almond butter,"Almond butter,Almond,butter",1,Years,"When stored in the pantry, almond butter may become hard and the natural oil may separate and float to the top; this is perfectly normal. To reincorporate the natural almond oils into the almond butter, simply mix it manually or with a hand mixer.",NA,NA,NA,NA,NA,NA,Yes
+444,467,23,Cashew butter,"Cashew butter,Cashew,butter",3,Months,Does not need to be refrigerated.,NA,NA,NA,NA,NA,NA,Yes
+445,468,23,"Salt (table, plain, or iodized)","Salt,table,plain,iodized",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+446,469,23,"Black pepper (ground, dried, commercially bottled or purchased in bulk)","Black pepper,black,pepper,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+447,470,23,"Black pepper (cracked, dried, commercially bottled or purchased in bulk)","Black pepper,black,pepper,crack,cracked,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",2-3,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+448,471,23,"Cajun seasoning blend  (ground, dried, commercially bottled or purchased in bulk)","Cajun seasoning blend,Cajun,seasoning,blend,Cajun seasoning,seasoning blend,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",1-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+449,472,23,"Cinnamon (ground, dried, commercially bottled or purchased in bulk)","Cinnamon,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",3-4,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+450,473,23,"Cumin (ground, dried, commercially bottled or purchased in bulk, opened or unopened)","Cumin,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase,opened,unopened,open,unopen",3-4,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+451,474,23,"Garlic powder (dried, commercially bottled or purchased in bulk)","Garlic powder,garlic,powder,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",3-4,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+452,475,23,"Onion powder  (dried, commercially bottled or purchased in bulk)","Onion powder,onion,powder,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",3-4,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+453,476,23,"Nutmeg (ground, dried, commercially bottled or purchased in bulk)","Nutmeg,ground,dried,commercially bottled,commercially,bottled,bottle,commercial,purchased in bulk,bulk,purchased,purchase",3-4,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+454,477,7,Nacho cheese  (store bought),"Nacho cheese,nacho,cheese,store bought,store",2-2,Years,NA,NA,NA,NA,3,Months,Freezing not recommended - may negatively impact the texture.,No
+455,478,18,Star fruit,"Star fruit,fruit,fruits",1,Weeks,"Or until ripe. Ripe is when this item is tender, fully developed and ready to eat.",1-2,Weeks,NA,10-12,Months,NA,No
+456,479,18,Prickly pear ,"Prickly pear,pear,pickle",2-5,Days,"Or until ripe. Ripe is when this item is tender, fully developed and ready to eat.",1-2,Weeks,NA,10-12,Months,NA,No
+457,480,18,Pitaya/dragon fruit,"Pitaya,dragon fruit,fruit,fruits",2-5,Days,"Or until ripe. Ripe is when this item is tender, fully developed and ready to eat.",2-3,Weeks,NA,10-12,Months,NA,No
+458,481,18,Strawberries,"Strawberries,strawberry",NA,NA,NA,2-3,Days,NA,8-12,Months,NA,No
+459,482,18,Raspberries,"Raspberries,raspberry",NA,NA,NA,2-3,Days,NA,8-12,Months,NA,No
+460,483,18,Cherries,"Cherries,cherry",NA,NA,NA,2-3,Days,NA,8-12,Months,NA,No
+461,484,6,Broth (homemade),"Broth,homemade",NA,NA,NA,3-4,Days,NA,2-3,Months,NA,No
+462,485,6,Beef broth/stock/consommé  (commercially produced),"Beef broth, beef stock,beef consommé,consommé,commercially produced",NA,NA,Bouillon cubes will keep their best quality 1 year. The reconstituted broth lasts 3-4 days in the refrigerator.,7,Days,NA,2-3,Months,NA,No
+463,486,6,Chicken broth/stock/consommé  (commercially produced),"Chicken broth,chicken stock,consommé,commercially produced",NA,NA,Bouillon cubes will keep their best quality 1 year. The reconstituted broth lasts 3-4 days in the refrigerator.,7,Days,NA,2-3,Months,NA,No
+464,487,6,Vegetable stock/broth  (commercially produced),"Vegetable stock,Vegetable broth,broth,commercial vegetable stock,commercial vegetable broth,vegetable",NA,NA,Bouillon cubes will keep their best quality 1 year. The reconstituted broth lasts 3-4 days in the refrigerator.,7,Days,NA,2-3,Months,NA,No
+465,488,23,"Peanut butter (commercially produced, containing hydrogenated fat or other stabilizers)","Peanut butter,butter,commercial peanut butter, hydrogenated fat,fat,stabilizers,stabilizer",6-9,Months,NA,12,Months,NA,NA,NA,NA,Yes
+466,489,23,Peanut butter (natural),"Peanut butter,butter,natural",NA,NA,NA,12,Months,"Or package use-by date, whichever comes first.",NA,NA,NA,Yes
+467,490,7,Ricotta,Ricotta,NA,NA,NA,2,Weeks,NA,NA,NA,NA,No
+468,491,19,Baby carrots,"Baby carrots, carrot,baby carrot",4-4,Days,below 75 °F,4,Weeks,NA,3,Months,Blanch before freezing.,No
+469,492,19,Jicama (fresh),"Jicama,fresh",4-4,Months,,2-3,Weeks,"Free from moisture; chilling injury causes decay, discoloration or loss of texture may occur.",NA,NA,NA,Yes
+470,493,19,Kimchi,Kimchi,NA,NA,NA,6-12,Months,NA,NA,NA,NA,Yes
+471,494,19,Kohlrabi,Kohlrabi,NA,NA,NA,1,Weeks,NA,8-12,Months,NA,No
+472,495,18,Watermelon,Watermelon,1-2,Days,,3-4,Days,NA,12,Months,NA,No
+473,496,18,Cantaloupe,Cantaloupe,2-4,Days,,5-15,Days,NA,12,Months,NA,No
+474,497,18,Honeydew,Honeydew,2-7,Days,NA,3-4,Days,NA,12,Months,NA,No
+475,498,9,"Peanuts  (boiled, shelled)","Peanuts,boiled, shelled,peanut",3-3,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+476,499,9,Refried beans,"Refried beans,refried bean",3-3,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+477,500,6,Relish,Relish,30-30,Months,NA,9,Months,NA,NA,NA,Freezing not recommended.,Yes
+478,501,23,Tomato paste,Tomato paste,27-27,Months,NA,NA,NA,NA,2-3,Months,NA,Yes
+479,502,23,Tapenade,Tapenade,9-9,Months,NA,9,Months,"Not necessary, but flavor will enhance.",NA,NA,NA,Yes
+480,503,23,Flaxseed (whole seed),"Flaxseed,whole seed,seed",2-2,Years,NA,NA,NA,Not necessary.,NA,NA,Nnot necessary.,Yes
+481,504,23,Flaxseed (ground),"Flaxseed,ground",NA,NA,NA,12,Months,NA,12,Months,NA,Yes
+482,505,19,Lemongrass,Lemongrass,NA,NA,NA,7-9,Days,NA,6,Months,NA,No
+483,506,19,Cilantro,Cilantro,1-2,Weeks,NA,2-3,Weeks,NA,NA,NA,Freeze damage will appear.,No
+484,507,19,Mint,Mint,1-2,Weeks,NA,2-3,Weeks,NA,NA,NA,Freeze damage will appear.,No
+485,508,19,Basil (dried),"Basil,dried",12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+486,509,19,Basil (fresh),"Basil,fresh",5,Days,Keep stems in water.,10,Days,Will start to discolor.,NA,NA,NA,No
+487,510,19,Oregano,Oregano,1-2,Weeks,NA,2-3,Weeks,NA,NA,NA,Freeze damage will appear.,No
+488,511,19,Rosemary,Rosemary,1-2,Weeks,NA,2-3,Weeks,NA,NA,NA,Freeze damage will appear.,No
+489,512,19,Chives,Chives,1-2,Weeks,NA,2-3,Weeks,NA,NA,NA,Freeze damage will appear.,No
+490,513,19,Thyme,Thyme,1-2,Weeks,NA,2-3,Weeks,NA,NA,NA,NA,No
+491,514,25,"Turkey  (pre-packaged, luncheon/deli meat)","Turkey,pre-packaged,luncheon/deli meat,packaged,luncheon,deli",NA,NA,NA,2,Weeks,NA,1-2,Months,Freezing not recommended. ,No
+492,515,25,"Ham (pre-packaged, luncheon/deli meat)","Ham,pre-packaged,luncheon/deli meat,packaged,luncheon,deli",NA,NA,NA,2,Weeks,NA,1-2,Months,Freezing not recommended. ,No
+493,516,25,"Salami  (pre-packaged, luncheon/deli meat)","Salami,pre-packaged,luncheon meat,deli meat,packaged,luncheon/deli,pre",NA,NA,NA,2,Weeks,NA,1-2,Months,Freezing not recommended. ,No
+494,517,25,"Chicken (pre-packaged, luncheon/deli meat)","Chicken,pre-packaged,luncheon meat,deli meat,packaged",NA,NA,NA,2,Weeks,NA,1-2,Months,Freezing not recommended. ,No
+495,518,25,Canadian bacon (whole),"Canadian bacon,bacon,whole",NA,NA,NA,2,Weeks,NA,2,Months,NA,No
+496,519,25,Canadian bacon (sliced),"Canadian bacon,bacon,sliced",NA,NA,NA,10,Days,NA,12,Months,NA,No
+497,520,23,Canola oil,"Canola oil,canola",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+498,521,23,Almond oil,"Almond oil,almond",1-1,Years,NA,2,Years,NA,NA,NA,NA,Yes
+499,522,23,Sunflower oil,"Sunflower oil,oil,sunflower",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+500,523,23,Grapeseed oil,"Grapeseed oil,grapeseed,oil",1-1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+501,524,6,Duck fat,"Duck fat,duck",NA,NA,NA,30,Days,NA,NA,NA,NA,No
+502,525,6,Bacon grease,"Bacon grease,bacon,grease",NA,NA,NA,6,Months,NA,12,Months,NA,Yes
+503,526,6,Frying oil (re-used),"Frying oil,re-used oil,oil",NA,NA,NA,1,Months,NA,6-9,Months,NA,Yes
+504,527,3,Almond extract,Almond extract,2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+505,528,3,Cinnamon extract,Cinnamon extract,2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+506,529,3,Lemon extract,"Lemon extract,lemon",2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+507,530,3,Pure vanilla extract,"vanilla,vanila extract",2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+508,531,3,Butter flavor,"Butter flavor,butter",2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+509,532,3,Coconut flavor,"Coconut flavor,coconut",2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+510,533,23,"""Genuine"" Maple syrup (unopened, glass)","Genuine Maple syrup,syrup,unopened, glass",4,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+511,534,23,"""Genuine"" Maple syrup (unopened, plastic)","Genuine Maple syrup,syrup,unopened, plastic",2,Years,NA,18-24,Months,NA,NA,NA,NA,Yes
+512,536,5,Lemon juice (fresh squeezed),"Lemon juice,juice,fresh squeezed,squeezed,juices",NA,NA,NA,6,Days,NA,12,Months,NA,No
+513,537,5,Apple juice (fresh squeezed),"Apple juice,juice,fresh squeezed,squeezed,juices,apple",NA,NA,NA,6,Days,NA,12,Months,NA,No
+514,538,5,Carrot juice (fresh squeezed),"Carrot juice,juice,fresh squeezed,squeezed,juices",NA,NA,NA,6,Days,NA,12,Months,NA,No
+515,539,5,Hard liquors,"Hard liquors,liquor",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+516,540,5,Cream liquors (unopened),"Cream liquors,liquors,unopened,liquor",6-8,Months,NA,NA,NA,NA,NA,NA,NA,No
+517,541,5,"Coffee (commercial ground, non-vacuum)","Coffee,commercial ground, non-vacuum",2-2,Years,NA,NA,NA,Critical to be stored in an airtight container.,6-12,Months,Do not return to freezer once taken out.,No
+518,542,2,Macaroons (french),"Macaroons,Macaroon,french",1-2,Days,Store in refrigerator if not eaten right away.,NA,NA,NA,3,Months,NA,No
+519,543,7,Milk (lactose-free),"Milk,lactose,lactose-free",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+520,544,7,String Cheese,"String Cheese,cheese",NA,NA,NA,5,Months,NA,NA,NA,NA,No
+521,545,7,Vegan Cheddar Cheese,"Vegan Cheddar Cheese,cheese,cheddar",NA,NA,NA,4,Months,NA,NA,NA,NA,No
+522,546,7,Quark (fresh cheese),"Quark,fresh cheese,cheese",NA,NA,NA,7-10,Days,NA,NA,NA,NA,No
+523,547,19,"Zucchini (fresh, whole)","Zucchini,fresh, whole",NA,NA,NA,1,Weeks,NA,10,Months,NA,No
+524,548,19,Hot peppers,"Hot peppers,pepper",NA,NA,NA,1,Weeks,Fresh whole peppers will last longer if kept dry. ,9,Months,Peppers lose their crispness when frozen and thawed.,No
+525,549,19,Bean sprouts,"Bean sprouts,bean,sprouts",NA,NA,NA,5-10,Days,NA,NA,NA,NA,No
+526,550,19,Swiss chard,"Swiss chard,chard",NA,NA,NA,1-2,Weeks,Keep them in a plastic bag to retain moisture.  ,NA,NA,NA,No
+527,551,4,Puff pastry,"Puff pastry,pastry,pastries,puff",NA,NA,NA,NA,NA,NA,12,Months,NA,No
+528,552,4,Biscuits (refrigerated),"Biscuits,Biscuits,refrigerated",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+529,553,9,Tortillas (corn),"Tortillas,corn",25-45,Days,NA,60-90,Days,NA,NA,NA,NA,No
+530,554,4,Pie crust (refrigerated),"Pie crust,crust,refrigerated,pie",NA,NA,NA,NA,NA,NA,2,Months,NA,No
+531,555,23,Granola,Granola,6-9,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+532,556,23,Pork rinds,"Pork rinds,pork,rinds",4,Months,From date of manufacturer.,NA,NA,NA,NA,NA,NA,Yes
+533,557,6,Apple cider vinegar,"Apple cider vinegar,Apple cider, vinegar,cider,apple",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+534,558,5,Nutrition supplement drinks (canned),"Nutrition supplement drinks,drinks,canned,supplement,Boost,Ensure",2-5,Years,NA,NA,NA,NA,NA,NA,NA,No
+535,559,6,Hot sauce,"Hot sauce,sauce",6,Months,Will stay fresher longer if refrigerated.,NA,NA,NA,NA,NA,NA,Yes
+536,560,6,Thai red curry paste,"Thai red curry paste,red curry paste,curry paste,paste,curry",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+537,561,3,Yeast (packaged),"Yeast,packaged",2-2,Years,,NA,NA,NA,6,Months,NA,Yes
+538,562,18,Applesauce (homemade),"Applesauce,homemade",NA,NA,NA,3,Weeks,NA,8-12,Months,NA,No
+539,563,12,Pate (meat ),"Pate,meat",NA,NA,NA,7,Days,Left over pâtés should be wrapped in plastic film.,NA,NA,NA,No
+540,564,14,Pate (poultry),"Pate,poultry",NA,NA,NA,7,Days,Left over pâtés should be wrapped in plastic film.,NA,NA,NA,No
+541,565,6,Cranberry sauce (canned),"Cranberry sauce,sauce,canned",2-2,Years,NA,NA,NA,NA,NA,NA,"It is not recommend freezing cranberry sauce, as after thawing, it may become too watery.",Yes
+542,566,6,Cranberry sauce (homemade),"Cranberry sauce,sauce,homemade",NA,NA,NA,7-10,Days,NA,NA,NA,"It is not recommend freezing cranberry sauce, as after thawing, it may become too watery.",No
+543,567,5,Vegetable juice (shelf-stable),"Vegetable juice,stable,shelf,shelf-stable",18-18,Months,NA,NA,NA,NA,NA,NA,NA,No
+544,568,5,"Vegetable juice (commercial, sold refrigerated)","Vegetable juice,commercial,refrigerated,vegetable",NA,NA,NA,1,Months,NA,NA,NA,NA,No
+545,569,5,Vegetable juice (homemade),"Vegetable juice,juices,homemade,vegetable",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+546,570,19,Marinated vegetables (in oil),"Marinated vegetables,vegetables,oil,vegetable",NA,NA,NA,3-4,Days,NA,NA,NA,NA,No
+547,571,8,Pizza (frozen),"Pizza,frozen",NA,NA,NA,3-4,Days,Recommendation is for storage after cooking.,12,Months,"Keep frozen. For safety, cook as directed.",No
+548,572,25,Salsa (fresh),"Salsa,fresh",NA,NA,NA,4-7,Days,NA,NA,NA,NA,No
+549,573,23,Chia seeds,"Chia seeds,chia,seed,seeds",18,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+550,574,2,Bread (homemade),"Bread,Breads,homemade",3-5,Days,May have shorter shelf life due to lack of preservatives.,2-3,Months,NA,NA,NA,NA,Yes
+551,575,9,Amaranth (whole grain),"Amaranth,whole grain,grain",4,Months,NA,NA,NA,NA,8,Months,NA,Yes
+552,576,3,"Amaranth (flour, meal)","Amaranth,flour,meal",2,Months,NA,NA,NA,NA,4,Months,NA,Yes
+553,577,9,Barley (whole grain),"Barley,whole grain,grain",6,Months,NA,NA,NA,NA,12,Months,NA,Yes
+554,578,3,"Barley (flour, meal)","Barley,flour, meal",3,Months,NA,NA,NA,NA,6,Months,NA,Yes
+555,579,9,Buckwheat (whole grain),"Buckwheat,whole grain,grain",2,Months,NA,NA,NA,NA,4,Months,NA,Yes
+556,580,3,"Buckwheat (flour, meal)","Buckwheat,flour, meal,meal",1,Months,NA,NA,NA,NA,2,Months,NA,Yes
+557,581,9,Farro (whole grain),"Farro,whole grain,grain",6,Months,Benefits from being stored in airtight containers and out of direct light.,NA,NA,NA,12,Months,NA,Yes
+558,582,3,"Farro (flour, meal)","Farro,flour, meal",3,Months,NA,NA,NA,NA,6,Months,NA,Yes
+559,583,9,Millet (whole grain),"Millet,whole grain,grain",2,Months,NA,NA,NA,NA,4,Months,NA,Yes
+560,584,3,"Millet (flour, meal)","Millet,flour, meal",1,Months,NA,NA,NA,NA,2,Months,NA,Yes
+561,585,9,Oats (whole grain),"Oat,Oats,whole grain,grain",4,Months,NA,NA,NA,NA,8,Months,NA,Yes
+562,586,3,"Oats (flour, meal)","Oats,Oat,flour, meal",2,Months,NA,NA,NA,NA,4,Months,NA,Yes
+563,587,9,Rye (whole grain),"Rye,whole grain,grain",6,Months,NA,NA,NA,NA,12,Months,NA,Yes
+564,588,3,"Rye (flour, meal)","Rye,flour, meal",3,Months,NA,NA,NA,NA,6,Months,NA,Yes
+565,589,9,Sorghum (whole grain),"Sorghum,whole grain,grain",4,Months,NA,NA,NA,NA,8,Months,NA,Yes
+566,590,3,"Sorghum (flour, meal)","Sorghum,flour, meal",2,Months,NA,NA,NA,NA,4,Months,NA,Yes
+567,591,9,Spelt (whole grain),"Spelt,whole grain,grain",6,Months,NA,NA,NA,NA,12,Months,NA,Yes
+568,592,3,"Spelt (flour, meal)","Spelt,flour, meal",3,Months,NA,NA,NA,NA,6,Months,NA,Yes
+569,593,9,Teff (whole grain),"Teff,whole grain,grain",4,Months,NA,NA,NA,NA,8,Months,NA,Yes
+570,594,3,"Teff (flour, meal)","Teff,flour, meal",2,Months,NA,NA,NA,NA,4,Months,NA,Yes
+571,595,10,"Rabbit (whole, fresh)","Rabbit,whole, fresh",NA,NA,NA,2,Days,NA,9,Months,NA,No
+572,596,19,Spaghetti squash (whole),"Spaghetti squash,squash,whole",2,Months,NA,1-2,Weeks,Storage temperatures below 50 degrees (as in a refrigerator) will cause the squash to spoil more rapidly.,NA,NA,NA,Yes
+573,597,19,Spaghetti squash (cut),"Spaghetti squash,squash,cut",NA,NA,NA,4-5,Days,NA,NA,NA,NA,No
+574,598,3,Garam masala,Garam masala,1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+575,599,6,"Tomato sauce (spaghetti, pizza)","Tomato sauce,sauce,spaghetti, pizza",NA,NA,Refrigerating unopened jars will NOT lengthen shelf life.,NA,NA,NA,NA,NA,NA,No
+576,600,19,Cherry tomatoes,"Cherry, tomatoes,tomato",10,Days,NA,5,Days,NA,NA,NA,NA,No
+577,601,23,Coconut cream (canned),"coconut cream,coconut,cream,canned,can",2-5,Years,NA,NA,NA,NA,3,Months,NA,Yes
+578,602,23,Coconut milk (canned),"coconut milk,coconut,milk,canned,can",2-5,Years,NA,NA,NA,NA,3,Months,NA,Yes
+579,603,25,"Coleslaw (homemade, prepared)","coleslaw,homemade,homemade coleslaw,prepared,prepared coleslaw",NA,NA,NA,3-5,Days,NA,NA,NA,NA,No
+580,604,23,"Pumpkin seeds (raw, no shell)","pumpkin,pumpkin seed,pumpkin seeds,seed,seeds",6,Months,NA,6,Months,NA,NA,NA,NA,Yes
+581,605,23,"Pumpkin seeds (raw, in-shell)","pumpkin,pumpkin seed,pumpkin seeds,seed,seeds",6,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+582,606,23,"Pumpkin seeds (roasted, no-shell)","pumpkin,pumpkin seed,pumpkin seeds,seed,seeds",6,Months,NA,NA,NA,Refrigeration not necessary for unsalted pumpkin seeds.,NA,NA,NA,Yes
+583,607,23,"Pumpkin seeds (roasted, in-shell)","pumpkin,pumpkin seed,pumpkin seeds,seed,seeds",6,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+584,608,23,"Sunflower seeds (raw, unsalted, no shell)","sunflower,sunflower seed,sunflower seeds,seed,seeds",12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+585,609,23,"Sunflower seeds (roasted, no shell)","sunflower,sunflower seed,sunflower seeds,seed,seeds,kernal,shell",12-12,Months,,NA,NA,NA,NA,NA,NA,Yes
+586,610,23,"Sunflower seeds (roasted, salted, in shell)","sunflower,sunflower seed,sunflower seeds,seed,seeds",NA,NA,,NA,NA,NA,NA,NA,NA,No
+587,611,19,Parsley (fresh),parsley,NA,NA,NA,2-3,Days,NA,3-4,Months,NA,No
+588,612,23,Sesame oil,"sesame oil,sesame,oil",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+589,613,23,Sesame seeds,"sesame seeds,sesame,seeds,seed",5,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+590,614,23,Capers (in jar),"capers,caper,jar capers,in jar,jar",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+591,615,23,Chocolate hazlenut spread,"hazelnut spread, spread, hazelnut, chocolate spread, chocolate,Nutella,cocoa,cocoa spread",NA,NA,"For best quality, do not refrigerate or microwave.",NA,NA,NA,NA,NA,NA,No
+592,616,23,"Roasted nuts (peanuts, cashews, almonds)","roasted nuts,roasted,nuts,roasted peanuts,roasted almonds,roasted cashews,almonds,cashews,peanuts",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+593,617,23,Tuna (packet),"tuna packet,tuna,packet,retort,retort packaging",18-18,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+594,618,23,Tuna (canned),"canned tuna,tuna,canned",3,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+595,619,23,Seafood (canned),"canned seafood,seafood,canned",1,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+596,620,7,Pimento cheese (packaged),"pimento cheese,pimento,cheese",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+597,621,10,Bison (whole),"bison whole,bison,whole",NA,NA,NA,3-5,Days,NA,6-9,Months,NA,No
+598,622,10,Bison (ground),"ground bison,bison,ground",NA,NA,NA,1-2,Days,NA,3-4,Months,NA,No
+599,623,6,Salad dressing (creamy),"creamy salad dressing,salad,dressing,salad dressing,creamy",6-6,Months,NA,NA,NA,NA,NA,NA,Freezing not recommended. ,Yes
+600,624,6,"Salad dressing (vinaigrette,homemade)","salad dressing,vinaigrette,salad,dressing,homemade",NA,NA,NA,2-3,Weeks,NA,NA,NA,NA,No
+601,625,6,Salad dressing (vinaigrette),"salad dressing,vinaigrette,salad,dressing",6-6,Months,NA,NA,NA,NA,NA,NA,Freezing not recommended. ,Yes
+602,626,6,"Salad dressing (dry,packaged)","salad dressing,salad,dressing,dry,packaged,package,powdered,powder",NA,NA,NA,NA,NA,NA,NA,NA,Freezing not recommended. ,No
+603,627,23,Grits (boxed),"boxed grits,grits,boxed,box",12-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+604,628,7,"Cheese Curds (fresh, unaged)","cheese curd,cheese,curd,curds,cheese curds",NA,NA,NA,2,Weeks,NA,4,Months,NA,No
+605,629,25,Vegetable soup (homemade),"vegetable soup,vegetable,soup",NA,NA,NA,3-4,Days,NA,3,Months,NA,No
+606,630,10,Chorizo (fresh),"fresh chorizo,chorizo",NA,NA,NA,1-2,Days,NA,1-2,Months,NA,No
+607,631,12,"Chorizo (smoked and processed, uncooked)","smoked chorizo,chorizo,processed chorizo,smoked,processed,uncooked,uncooked processed chorizo,uncooked smoked chorizo",NA,NA,NA,1,Weeks,NA,1-2,Months,NA,No
+608,632,12,"Chorizo (smoked and processed, cooked)","smoked chorizo,chorizo,processed chorizo,smoked,processed,cooked,cooked processed chorizo,cooked smoked chorizo",1,Years,NA,NA,NA,NA,6,Months,NA,Yes
+609,633,23,Beets (pickled),"pickled beets,beets,pickled",1,Years,NA,NA,NA,Refrigerate after opening.,NA,NA,NA,Yes
+610,634,4,"Cinnamon rolls (unbaked, tube)","cinnamon rolls,cinnamon roll,cinnamon,roll,rolls",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+611,635,3,Cinnamon rolls (baked),"cinnamon rolls,cinnamon roll,cinnamon,roll,rolls",1-3,Days,NA,NA,NA,NA,3,Months,NA,No
+612,636,6,Cooking wine,"cooking wine,wine,cooking",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+613,637,9,Bulgur,bulgur,6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+614,638,10,Bratwurst (fresh),"fresh brautwurst,brautwurst,fresh",NA,NA,NA,2-3,Days,NA,2-3,Months,NA,No
+615,639,12,Bratwurst (smoked and processed),"smoked brautwurst,processed brautwurst,bratwurst,smoked,processed",NA,NA,NA,5-7,Days,NA,2-3,Months,NA,No
+616,640,19,Edamame (fresh),"edamame,fresh,fresh edamame,soybeans,soybean",NA,NA,NA,4-5,Days,NA,NA,NA,NA,No
+617,641,8,Edamame (frozen),"edamame,frozen,frozen edamame,soybean,soybeans",NA,NA,NA,NA,NA,NA,2,Years,NA,No
+618,642,23,"Edamame (salted, dry roasted, out of pod)","edamame,soybean,soybeans,salted,roasted,dry roasted",12,Months,NA,6,Months,NA,NA,NA,NA,Yes
+619,643,23,Breadcrumbs (commercial),"breadcrumbs,breadcrumb",6,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+620,644,23,Milk  (shelf-stable),"shelf stable milk,milk,shelf,stable,UHT,ultrapasteurized,aseptic packaging",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+621,645,25,"Salsa (homemade, fresh)","homemade salsa,homemade,salsa",NA,NA,NA,5-7,Days,NA,12,Months,NA,No
+622,646,6,"Salsa (homemade, canned)","homemade salsa,homemade,salsa",9-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+623,647,6,"Tomato Sauce (homemade, canned)","homemade tomato sauce,homemade sauce,homemade spaghetti sauce,spaghetti sauce,tomato sauce,homemade",9-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+624,648,6,"Barbecue Sauce (homemade, canned)","homemade barbecue sauce,homemade sauce,homemade BBQ sauce,BBQ sauce,barbecue sauce",9-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+625,649,7,Ghee,"ghee,clarified butter,clarified,butter",6-8,Months,NA,1-2,Years,NA,NA,NA,NA,No
+626,650,23,Corn syrup,"corn syrup,corn,syrup",3,Years,Keep tightly covered; refrigerate to extend storage life.,NA,NA,NA,NA,NA,NA,Yes
+627,651,23,Nutrition supplement drinks (bottled),"Nutrition supplement drinks,drinks,bottled,supplement",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+628,652,23,Instant breakfast drinks (bottled),"instant breakfast drinks,instant,breakfast,drinks,instant breakfast,instant drink,carnation,bottled instant breakfast drink,bottled instant breakfast,bottled breakfast",6,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+629,653,23,Pine nuts,"pine nuts,pine nut,pine,nut,nuts",2-3,Weeks,NA,3,Months,NA,9,Months,Store in a plastic bag within an airtight container. ,Yes
+630,654,3,Coconut flour,"coconut flour,coconut,flour",NA,NA,NA,9-12,Months,Store in an airtight container.,9-12,Months,NA,Yes
+631,655,23,Pecans (chopped),"chopped pecans,pecan,pecans,chopped",NA,NA,NA,12,Months,NA,2,Years,NA,Yes
+632,656,23,Polenta (shelf-stable),"polenta,shelf stable,shelf stable polenta",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+633,657,8,Polenta (frozen),"polenta,frozen,frozen polenta",NA,NA,NA,NA,NA,NA,12,Months,NA,No
+634,658,23,Cereal or granola bars,"bars,bar,granola bars,granola bar,granola,cereal bars,cereal bar,nutrition bars,nutrition bar,energy bars,energy bar,health bars,health bar,fruit bars,fruit bar,snack bars,snack barsnack,,nut bars,nut bar,seed bars,seed bar,crunchy bars,crunchy bar,breakfast,breakfast bar,breakfast bars",6-12,Months,NA,NA,NA,NA,NA,NA,NA,Yes
+635,659,23,Milk  (ultra-pasteurized),"ultra pasteurized milk,milk,pasteurized,ultra",NA,NA,NA,1-3,Months,NA,NA,NA,NA,Yes
+636,660,5,Coconut water,"coconut water,coconut,water",12-12,Months,NA,NA,NA,NA,NA,NA,NA,No
+637,661,19,Celery root,"celeriac,celery root,celery",NA,NA,NA,1,Weeks,NA,NA,NA,NA,No
+638,662,5,Apple cider (fresh),"apple cider,apple,cider",2-3,Days,NA,2-3,Weeks,NA,NA,NA,NA,No
+639,663,5,Yuzu juice,"yuzu juice,yuzu,juice",4-6,Months,NA,9-12,Months,NA,1-2,Years,NA,No
+640,664,5,"Yuzu (fruit, fresh)","yuzu,yuzu fruit",NA,NA,NA,5-7,Days,Store fresh yuzu wrapped in plastic in your refrigerator.  ,NA,NA,"For long term storage of leftovers, freeze the juice and zest.",No
+641,665,12,Pastrami,pastrami,NA,NA,NA,40,Days,NA,NA,NA,NA,No
+642,666,8,Kugel (commercial),"kugel,commercial,commercial kugel",NA,NA,NA,NA,NA,NA,1,Years,NA,No
+643,667,25,Kugel (homemade),"kugel,homemade,homemade kugel",NA,NA,NA,3-4,Days,NA,1,Months,NA,No
+644,668,23,Avocado Oil,"avodaco oil,avocado,oil",2-2,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+645,669,6,Balsamic vinegar,"balsamic vinegar,balsamic,vinegar",3-5,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+646,670,6,Aioli (homemade),"garlic aioli,aioli,garlic,mayonnaise,mayo,garlic mayo,garlic mayonnaise,mayo",NA,NA,NA,3-4,Days,NA,NA,NA,NA,No
+647,671,6,Salad dressing (homemade),"homemade salad dressing,homemade,salad dressing,salad,dressing",NA,NA,NA,NA,NA,NA,NA,NA,NA,No
+648,672,23,"Base (beef, vegetable)","beef base,vegetable base,base,beef,vegetable",NA,NA,Refrigerate after opening.,NA,NA,NA,NA,NA,NA,No
+649,673,6,Anchovies (canned),"anchovies,anchovy,canned anchovies",5,Years,NA,NA,NA,NA,2,Months,Remove from can before freezing.,Yes
+650,674,19,Radicchio,radicchio,NA,NA,NA,2-3,Weeks,NA,NA,NA,NA,No
+651,675,12,Prosciutto,prosciutto,NA,NA,NA,2-3,Months,NA,1,Months,NA,Yes
+652,676,12,"Ham  (uncured, fresh, cooked)","ham,uncured,fresh,cooked,uncured ham,fully cooked,fully cooked uncured ham",NA,NA,NA,3-4,Days,NA,3-4,Months,NA,No
+653,677,10,"Ham  (uncured, fresh, uncooked)","ham,uncured,fresh,uncooked,uncured ham,uncured ham uncooked",NA,NA,NA,3-5,Days,NA,6,Months,NA,No
+654,678,19,Arugula,"arugula,greens,salad greens,salad",NA,NA,NA,3-7,Days,NA,NA,NA,NA,No
+655,679,9,Mung bean (sprouts),"sprouted mung beans,sprouted mung bean,sprout,mung beans,mung bean,mung,bean,mungbean,sprouts",NA,NA,NA,4-6,Weeks,Never refrigerate wet sprouts. Transfer to a plastic bag or use a glass or plastic container. ,NA,NA,NA,No
+656,680,9,"Mung bean (dry, food-grade bags)","mung beans,mung bean,mung,bean,dry mung beans,dry,bag,bagged mung beans",1,Years,Keep the beans in an airtight container as it’s imperative that they remain dry.,1,Years,NA,1,Years,NA,Yes
+657,681,9,"Mung bean (dry, vacuum-sealed)","mung beans,mung bean,mung,bean,dry mung beans,dry,vacuum sealed,vacuum sealed mung beans",8-10,Years,NA,NA,NA,NA,NA,NA,NA,Yes
+658,682,23,Croutons,"croutons,crouton,bread",5-6,Months,NA,5-6,Months,NA,11-12,Months,NA,Yes
+659,683,12,Bacon (uncured),"uncured bacon,nitrite-free bacon,natural bacon,uncured,nitrite-free,nitrite,natural,bacon",NA,NA,NA,4-7,Days,NA,3-4,Weeks,NA,No
+660,684,23,"Mustard (dried, ground)","mustard,dried mustard,ground mustard,dried ground mustard",6,Months,NA,NA,NA,NA,1-2,Years,NA,Yes
