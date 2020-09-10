@@ -50,8 +50,8 @@ if ( ! function_exists( 'hello_elementor_setup' ) ) {
 			add_theme_support(
 				'custom-logo',
 				array(
-					'height'      => 100,
-					'width'       => 350,
+					'height'      => 50,
+					'width'       => 100,
 					'flex-height' => true,
 					'flex-width'  => true,
 				)

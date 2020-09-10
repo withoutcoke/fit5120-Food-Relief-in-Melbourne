@@ -35,7 +35,7 @@
  * 3. Change from `box-sizing: content-box` so that `width` is not affected by `padding` or `border`.
  */
 html {
-  line-height: 1.15;
+  line-height: 0.75;
   /* 1 */
   -webkit-text-size-adjust: 100%;
   /* 2 */ }

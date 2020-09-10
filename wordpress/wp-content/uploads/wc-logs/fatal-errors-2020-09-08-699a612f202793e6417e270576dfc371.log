@@ -1,0 +1,175 @@
+2020-09-08T15:36:39+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:36:40+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:38:22+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:38:22+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:40:24+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:40:24+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:42:00+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:42:01+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:42:01+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:42:24+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:44:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:44:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:44:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:44:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:44:24+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:46:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:46:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:46:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:46:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:46:25+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:48:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:48:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:48:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:48:02+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
+2020-09-08T15:48:25+00:00 CRITICAL /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php 中第 44 行的 Uncaught RuntimeException: 保存操作时出错：保存操作时出错：Table 'bitnami_wordpress.wp_actionscheduler_actions' doesn't exist in /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:44
+Stack trace:
+#0 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php(242): ActionScheduler_DBStoreMigrator->save_action()
+#1 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(177): ActionScheduler_HybridStore->save_action()
+#2 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/classes/ActionScheduler_ActionFactory.php(84): ActionScheduler_ActionFactory->store()
+#3 /opt/bitnami/apps/wordpress/htdocs/wp-content/plugins/woocommerce/packages/action-scheduler/functions.php(36): ActionScheduler_ActionFactory->singl
+
